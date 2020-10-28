@@ -1,0 +1,1084 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CrQCJAEAAKJ87EIb3LONqjfmTUfVi-w30CUNWZzBfNYmMop0RFh2cO1dMUUkwXDo-s3hub-UIxYnleNRPSZ-NamYHFLPHaaX03Y2CoNwTX7mN19yVnRK4jMRsY6IqlseTZQgKPllBw2ixWRSmzblQ3OCQ0yGaB-cKuKO1fguaMc825ohZoMqirGrGgWZ0XrI5a1La_gmN0Sw2AYKKrCudgYg0y6Sg21EVGiKGZnKE6za8-ffwMEjtZtD8FXA3Tuyzj2RRAqBJO4jF2vyVX6LDtZiz8__I2egdPdKSNqo36huCagp53ptVQKnfwhuoY9g-kzQGNlErK3yI3sA9p-de-EwhznqyEyUaoPuvYekdOuW5mSH7FcgZ5szYMlVvHclbrZaqo-6DhNG_WrdY-k8-R_wGCHe4A0SEHo6-Gcr1lEBLY603E6jjJsaFIz6A4uuieewV35pjDihvzrlwuE-",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8037467,
+               "lng" : -96.7914404
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.80542638029149,
+                  "lng" : -96.79010866970849
+               },
+               "southwest" : {
+                  "lat" : 32.80272841970849,
+                  "lng" : -96.79280663029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Target",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111244471001368380972\"\u003eJohn Webber\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARurJ9duQzGt2jEzkm8lluC-OCaZURYUXD8MJPbn2xmJ6NUTOnjqEFUzbkMBtJim1U-u4v_ex_sgTahjAIun1W1RlvGmLFAAEWywDb2-YBfewe--0iQKEb8QY_kd5lB3PEhBd2WVbk7nqgxuVWNx4wq8iGhT4tvY4noSEvpDvphq2P7dPV_CFIA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ794dLdWYToYRW-HM_ZYafxc",
+         "plus_code" : {
+            "compound_code" : "R635+FC Dallas, TX, USA",
+            "global_code" : "8645R635+FC"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJ794dLdWYToYRW-HM_ZYafxc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "department_store",
+            "grocery_or_supermarket",
+            "electronics_store",
+            "furniture_store",
+            "home_goods_store",
+            "food",
+            "point_of_interest",
+            "clothing_store",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1323,
+         "vicinity" : "2417 North Haskell Avenue, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.093687,
+               "lng" : -96.82050749999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.0953221802915,
+                  "lng" : -96.81913966970849
+               },
+               "southwest" : {
+                  "lat" : 33.0926242197085,
+                  "lng" : -96.82183763029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "IKEA",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102024385283975085654\"\u003eJerry Griffis\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALvXHeu45iZKfrhXvV5q3jLr16nEnJmHfZP1oFWJVovDh_tz9SqRCyFIhLcowV_AIWdrOlnssj5YaGOdYUttgMeXUN-pYLtt5L8EORl41AwltQTfO-alt8RK9avlvV588EhBqmLzbCW88oflYCVFwP6QiGhRSBBr8tbDQyq3BkaWaxU25vryt9g",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJN42Gm708TIYRp7zdNGJzkgg",
+         "plus_code" : {
+            "compound_code" : "35VH+FQ Frisco, TX, USA",
+            "global_code" : "865535VH+FQ"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJN42Gm708TIYRp7zdNGJzkgg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "furniture_store",
+            "home_goods_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 9613,
+         "vicinity" : "7171 Ikea Drive, Frisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9507159,
+               "lng" : -96.8543442
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9522299302915,
+                  "lng" : -96.85272536970849
+               },
+               "southwest" : {
+                  "lat" : 32.9495319697085,
+                  "lng" : -96.8554233302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Target",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106237826767815489857\"\u003eKassandra Acuña\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgAfC4T7ZXriKQatkO30fsKHW_0K4ia6N7eZ8KSoOasXjU5sj-H7i4X1FBM6x9XWUVpdJtNMS1BNXWhtB1gQfiMIvuDa322iVI6WZIAx8tNgNiLu4wtLVAyYWIU7Z6Oc5EhB-c3AFIXmBAqFCbcNBFI-FGhQ1UprgB8y2DsHfTKVpShR0enqMZQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ_2SzTsImTIYRJT09a33gdFo",
+         "plus_code" : {
+            "compound_code" : "X42W+77 Addison, TX, USA",
+            "global_code" : "8645X42W+77"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ_2SzTsImTIYRJT09a33gdFo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "department_store",
+            "grocery_or_supermarket",
+            "electronics_store",
+            "furniture_store",
+            "home_goods_store",
+            "food",
+            "point_of_interest",
+            "clothing_store",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 397,
+         "vicinity" : "3730 Belt Line Road, Addison"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.86071500000001,
+               "lng" : -96.74973639999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8622735302915,
+                  "lng" : -96.74842026970849
+               },
+               "southwest" : {
+                  "lat" : 32.8595755697085,
+                  "lng" : -96.7511182302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "The Home Depot",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 292,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107643045409955485494\"\u003eThe Home Depot\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAF22-zSqc63t09ahAkQulOg1UWNvLIHhs1THy4Nx_il62-EyvUJj_Mc2HSnthbRAMmpAsEiOIwAAYW8YBioMEv_zFh1aA4YlwP5qIXOBIPsqmLYB3j-GmIh7rmU-b6AlPEhBhpT2of9H3S4CB4LRGzucEGhSDa2NUz6XT4YPStb2HJ-frHfZU9w",
+               "width" : 704
+            }
+         ],
+         "place_id" : "ChIJ4c_duIefToYRNBgY5Shlcyg",
+         "plus_code" : {
+            "compound_code" : "V762+74 Dallas, TX, USA",
+            "global_code" : "8645V762+74"
+         },
+         "price_level" : 1,
+         "rating" : 4.2,
+         "reference" : "ChIJ4c_duIefToYRNBgY5Shlcyg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hardware_store",
+            "furniture_store",
+            "home_goods_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1029,
+         "vicinity" : "6000 Skillman Street, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.1291667,
+               "lng" : -96.73111109999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.13042443029151,
+                  "lng" : -96.72943301970848
+               },
+               "southwest" : {
+                  "lat" : 33.12772646970851,
+                  "lng" : -96.7321309802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Target",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111723022039827881274\"\u003eZiesook You\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAADe8ab_L0Vu0W47_tEncqX6vWU_58vULQtaNmWword7ZtVP95h2zdTisPYvj6l0v1f9wa3rnumJ1t92hvR_y4ZPbs-hGNCfCg0Z1qy6HKprvizrnK-KnHAKKQc0IrnjsVEhBYSijhlWYToFQmTCtSb82ZGhTpDYXbLqR5jtskkSRIcxVBURRjhg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJa02JrFEWTIYRvMneIg2yuL4",
+         "plus_code" : {
+            "compound_code" : "47H9+MH McKinney, TX, USA",
+            "global_code" : "865547H9+MH"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJa02JrFEWTIYRvMneIg2yuL4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "department_store",
+            "grocery_or_supermarket",
+            "electronics_store",
+            "furniture_store",
+            "home_goods_store",
+            "food",
+            "point_of_interest",
+            "clothing_store",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 680,
+         "vicinity" : "8900 Texas 121, McKinney"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.933997,
+               "lng" : -96.82061300000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.93520513029149,
+                  "lng" : -96.8194959697085
+               },
+               "southwest" : {
+                  "lat" : 32.93250716970849,
+                  "lng" : -96.8221939302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "The Arrangement",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 512,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108485795015421763177\"\u003eThe Arrangement\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVuchyTsv8K0lWt-3pLPFIOCD3joe4X-RxbJUxuHBtfLLbAD3_IO7pYzFWI0-55vy1hVfPiLLQk9sfPrxRWYLQRLeMaCixzUWrhETGCfEDZbD2UGWCy2kV4nYQ6O3QMj7EhALoNPr9SZdflRq1kO8t8PLGhTyMqkBsJK-eucQeKIIQUjHjBZ1ow",
+               "width" : 436
+            }
+         ],
+         "place_id" : "ChIJ83zPGtkgTIYRfCpyL07N9G8",
+         "plus_code" : {
+            "compound_code" : "W5MH+HQ Dallas, TX, USA",
+            "global_code" : "8645W5MH+HQ"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ83zPGtkgTIYRfCpyL07N9G8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "furniture_store",
+            "home_goods_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 31,
+         "vicinity" : "13710 Dallas Parkway C, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.030321,
+               "lng" : -96.83257499999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.0314871802915,
+                  "lng" : -96.8310933697085
+               },
+               "southwest" : {
+                  "lat" : 33.0287892197085,
+                  "lng" : -96.8337913302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "RH",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115262712530104858236\"\u003eRick Hart\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAaOm2K610vxiRkngeohL832QuyxcbFpAc-nFxjnpp3uqJ2OxXD3uS2itomJiT3BJDFqQVXVyLjOGNslc3jgFqhOgaalVNl1sDeMUbPoj__g6fRY6WAfexzLkr5KZ4I6kYEhB3XKrYk4Jx7OUJOVPalheuGhQmuT_9xUuaNgjbRdZJvXHPEJ1ttw",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJVyDnXH4jTIYR-pjPUCWH-Lg",
+         "plus_code" : {
+            "compound_code" : "25J8+4X Plano, TX, USA",
+            "global_code" : "865525J8+4X"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJVyDnXH4jTIYR-pjPUCWH-Lg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "furniture_store",
+            "home_goods_store",
+            "general_contractor",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 42,
+         "vicinity" : "6121 West Park Boulevard Ste D108, Plano"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.86414459999999,
+               "lng" : -96.7735675
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.86565843029149,
+                  "lng" : -96.77184926970848
+               },
+               "southwest" : {
+                  "lat" : 32.86296046970849,
+                  "lng" : -96.7745472302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "The Container Store",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 405,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103000051259581612187\"\u003eThe Container Store\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAlHY3bP9UrWSQw64slcFZSGIwGjSgLgJnEbobSiAKvujOITy_VafNPF99ciMPsN25lajqW9YFsUH-6wSFnA_5-dyBsi1CbyLlE_tAVA3UT5MEdtQyv8532aKUS87l5YmTEhAZl5Sqo9ue8hS075E0-4gsGhTQc32qhTiDEkSYbQq0o_dDBkA7nA",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJEUqdAb2fToYRbBz1y-_lK08",
+         "plus_code" : {
+            "compound_code" : "V67G+MH Dallas, TX, USA",
+            "global_code" : "8645V67G+MH"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJEUqdAb2fToYRbBz1y-_lK08",
+         "scope" : "GOOGLE",
+         "types" : [
+            "home_goods_store",
+            "furniture_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 285,
+         "vicinity" : "7700 West Northwest Highway, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.93399719999999,
+               "lng" : -96.82061329999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9353519302915,
+                  "lng" : -96.81949586970849
+               },
+               "southwest" : {
+                  "lat" : 32.9326539697085,
+                  "lng" : -96.8221938302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "The Container Store Custom Closets",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2620,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106215620546838746009\"\u003eKeath Marx\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxGNwLT-8ds-fYSX7UhpCmnqBk90yxLKCAM_il5oQiF71oLxk9wvf44zeo3ZCQk_YuLdVcgDcERO48siZqI6VbqUuGpQ1WScpKb3FODZAP6gD76mbFJJH0dX2SxSWcTQ9EhDtZ2U0Sa7DpCXmNjb4k6zpGhQTabRGMVzi773UnAIhNV-dF-zM3w",
+               "width" : 4656
+            }
+         ],
+         "place_id" : "ChIJp4qGStkgTIYRWwZEgqGfsyw",
+         "plus_code" : {
+            "compound_code" : "W5MH+HQ Dallas, TX, USA",
+            "global_code" : "8645W5MH+HQ"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJp4qGStkgTIYRWwZEgqGfsyw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "furniture_store",
+            "home_goods_store",
+            "general_contractor",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 197,
+         "vicinity" : "13710 Dallas Parkway Suite B, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9134776,
+               "lng" : -96.96250929999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9146272302915,
+                  "lng" : -96.96081016970849
+               },
+               "southwest" : {
+                  "lat" : 32.9119292697085,
+                  "lng" : -96.9635081302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Target",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102022352861643410864\"\u003eSergiu Bârsa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3iuBZhRO7zPXZK_CfSGPR4ZuM7Md1Cl8k8ulr6Zub7357Jn-ZU3az-arHnolg94DbJxag39BXm8ItuYz5IJ16sDNXJ_QGODhwWuJ6U12aOyJMSLyK1V6aM0cHKEezpA8EhBKKtu5oZe3EqUyYzWZO68YGhS1yFmfaSFEkHJIT9cLnwug0Qfyow",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJpzmOgEwoTIYRxdsfhz3K1wU",
+         "plus_code" : {
+            "compound_code" : "W27P+9X Irving, TX, USA",
+            "global_code" : "8645W27P+9X"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJpzmOgEwoTIYRxdsfhz3K1wU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "department_store",
+            "grocery_or_supermarket",
+            "electronics_store",
+            "furniture_store",
+            "home_goods_store",
+            "food",
+            "point_of_interest",
+            "clothing_store",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 516,
+         "vicinity" : "7845 North MacArthur Boulevard, Irving"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.86873570000001,
+               "lng" : -96.7718582
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8698181802915,
+                  "lng" : -96.77037176970849
+               },
+               "southwest" : {
+                  "lat" : 32.8671202197085,
+                  "lng" : -96.7730697302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Macy's",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115336853739607884328\"\u003eRene Salazar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAfVT-3SFx8xgu4YtPHFZoWGGtbxvhg3J3m-GCli0bZUiiIKpimUBQsypce9CexdJ_vChDdBGtMOAyFpg9r_0PacI3RHtIjnZMM9xm37WGexLckN-NR485DFB0LlfHfTSOEhCgNHQNI4LkxMmQ-Q1UhkZuGhSJ_9Pfrf1soJgABLpzHIP23UCw4w",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJUSO7PL6fToYRIPkcPIGuGME",
+         "plus_code" : {
+            "compound_code" : "V69H+F7 Dallas, TX, USA",
+            "global_code" : "8645V69H+F7"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJUSO7PL6fToYRIPkcPIGuGME",
+         "scope" : "GOOGLE",
+         "types" : [
+            "department_store",
+            "shoe_store",
+            "jewelry_store",
+            "furniture_store",
+            "home_goods_store",
+            "point_of_interest",
+            "clothing_store",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 2515,
+         "vicinity" : "8687 North Central Expressway Ste 800, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.0175978,
+               "lng" : -96.7149501
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.0191308802915,
+                  "lng" : -96.71371671970849
+               },
+               "southwest" : {
+                  "lat" : 33.0164329197085,
+                  "lng" : -96.71641468029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Dollar Tree",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111460224011875870511\"\u003eDollar Tree\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAATxPqxC8H3sIDQb6MZ-fAbrod7ygswM8Xvx6WvNPtdRP390z9192LzFe6ljm7n1U80w-jCD11l5miC_GpTSoIe_OfBiHOe7bDCleTwiNDAX95m0C1AVodW2Ds4-JfyC4xEhDchwMSjml1RnVcHBHSgtzpGhR9It3GgwzWK36ZV-kFRRI9qT06IQ",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJ8dtVxuUYTIYRP6-A-ds3mFw",
+         "plus_code" : {
+            "compound_code" : "279P+22 Plano, TX, USA",
+            "global_code" : "8655279P+22"
+         },
+         "price_level" : 1,
+         "rating" : 4.4,
+         "reference" : "ChIJ8dtVxuUYTIYRP6-A-ds3mFw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "furniture_store",
+            "home_goods_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 390,
+         "vicinity" : "900 West 15th Street #C, Plano"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8527279,
+               "lng" : -96.7689699
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8540990302915,
+                  "lng" : -96.7677690197085
+               },
+               "southwest" : {
+                  "lat" : 32.8514010697085,
+                  "lng" : -96.7704669802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Cost Plus World Market",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107452656473159719994\"\u003eNorma Roxy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABCrS1Cy3ZhKQPJqioFY_H57KTv_tYgHC94SfY3TIqr6gr1KSqINPi5vySHFf25OC-xI9NTrQPvrETLkVQfGdH6SPooIu-qwV4TQEo4KzbXGlf2cGTC_PqpEUK0D2pNrQEhBaPCkFQ027-qbr1FWWyA38GhQB6EFZ9nXU5qX6xgcm4eBkv40_og",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJX23aGp-fToYRHw3jzNTLvco",
+         "plus_code" : {
+            "compound_code" : "V63J+3C Dallas, TX, USA",
+            "global_code" : "8645V63J+3C"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJX23aGp-fToYRHw3jzNTLvco",
+         "scope" : "GOOGLE",
+         "types" : [
+            "furniture_store",
+            "home_goods_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 247,
+         "vicinity" : "5500 Greenville Avenue Suite 300, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.0323334,
+               "lng" : -96.70590209999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.0337687802915,
+                  "lng" : -96.7048184197085
+               },
+               "southwest" : {
+                  "lat" : 33.0310708197085,
+                  "lng" : -96.70751638029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Rooms To Go Furniture Store",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111309549852204771944\"\u003eRooms To Go Furniture Store\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAyyOe3LGdwGHt6IGQQIhvt_fLrTlGO204DqGYes3PpmeGHPhUcSqhXL0vNpyxu3ZdQeCBOiNK-mPQVmw7-Ha5BLbWvss8J6OdgsfvtJX6IskgF0ACkRKdYPzHv-Muz2TnEhAjIzYUivYHqrIpTvwRtWMhGhQX85NzuMXlG6PoZ-d11LEvO28Cbw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJk0Y6PQAZTIYRHd6Y8fBUjGo",
+         "plus_code" : {
+            "compound_code" : "27JV+WJ Plano, TX, USA",
+            "global_code" : "865527JV+WJ"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJk0Y6PQAZTIYRHd6Y8fBUjGo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "furniture_store",
+            "home_goods_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 905,
+         "vicinity" : "2600 North Central Expressway Ste A, Plano"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8492588,
+               "lng" : -96.77087899999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8506501802915,
+                  "lng" : -96.76935826970849
+               },
+               "southwest" : {
+                  "lat" : 32.8479522197085,
+                  "lng" : -96.7720562302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Office Depot",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112698260107528123698\"\u003ePhongsiri Nirachornkul\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAte65TTR1dc4c-o448Rc6DgHR-EwPzFEG-aCRynVgFJvc2e8X61W0kT9UcdaqkwI2VN11Sk0_IgONsyCw4Pr4pj4NhO8UZuyY1un7zKneu8YydaNwdwput4aWE-4dG1rUEhDqCR0zaPEQKOAMgfnvJqr1GhSVAV417NLGQscitzIiKKOrkqq2Mw",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJSTQlS3WfToYR1TNO8n7ItGM",
+         "plus_code" : {
+            "compound_code" : "R6XH+PJ Dallas, TX, USA",
+            "global_code" : "8645R6XH+PJ"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJSTQlS3WfToYR1TNO8n7ItGM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "electronics_store",
+            "furniture_store",
+            "home_goods_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 222,
+         "vicinity" : "5111 Greenville Avenue GREENVILLE JUNCTION SHOPPING CENTER, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.029857,
+               "lng" : -96.83417200000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.03115448029149,
+                  "lng" : -96.83292636970849
+               },
+               "southwest" : {
+                  "lat" : 33.0284565197085,
+                  "lng" : -96.83562433029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Macy's",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113463196571629704396\"\u003eJames J.\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwTQgBBZxna6k9yKxwZAJ_glqBlt2wXVr206WBqthjWpa2796qYIkEaPH8eLaOrBtsSeYAOaowFIJadQ_KlC4XZTRc5L5VdUeuMCQ61on1QUXtd7S8XQOgR2vuoSxvs4FEhDUpFnYPu8MY7U4Z5Ij-mPVGhTbx1AwzNprxuhcfOGQ-g6-WhziHA",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJDSMlX34jTIYRE-Oy6_OyEIc",
+         "plus_code" : {
+            "compound_code" : "25H8+W8 Plano, TX, USA",
+            "global_code" : "865525H8+W8"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJDSMlX34jTIYRE-Oy6_OyEIc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "department_store",
+            "shoe_store",
+            "jewelry_store",
+            "furniture_store",
+            "home_goods_store",
+            "point_of_interest",
+            "clothing_store",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1023,
+         "vicinity" : "6209 West Park Boulevard, Plano"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.10071499999999,
+               "lng" : -96.808961
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.1020806302915,
+                  "lng" : -96.80745346970849
+               },
+               "southwest" : {
+                  "lat" : 33.0993826697085,
+                  "lng" : -96.8101514302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Macy's",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1295,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117308797713443424001\"\u003eMike Young\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXR5zXEHcKa3g24Ywv38_hgZ6Pa4ZqTKs0Y_1lZrcD6c7i9XREq7o_gsZnTU5W9-Zce166QAnwWlRa4PVoWOTbP_BbScMO7QGvS0QWPcGUhzGWmL-kSx7ILBeUmHaxF77EhBWeGKO0uh4wBfWmAnfhxNjGhSOW3corzBd0WI7DnB8o1XX_58CiA",
+               "width" : 2919
+            }
+         ],
+         "place_id" : "ChIJQXVN9-s8TIYRFT0QbuuFSiU",
+         "plus_code" : {
+            "compound_code" : "452R+7C Frisco, TX, USA",
+            "global_code" : "8655452R+7C"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJQXVN9-s8TIYRFT0QbuuFSiU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "department_store",
+            "shoe_store",
+            "jewelry_store",
+            "furniture_store",
+            "home_goods_store",
+            "point_of_interest",
+            "clothing_store",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1858,
+         "vicinity" : "2609 Preston Road, Frisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9295763,
+               "lng" : -96.81978579999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9307001802915,
+                  "lng" : -96.81869391970849
+               },
+               "southwest" : {
+                  "lat" : 32.9280022197085,
+                  "lng" : -96.8213918802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Lovesac",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116460525017163639115\"\u003eLovesac\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAfRVijQIydx6__j5AOaTbFqgDjhOBg3mYU63mZX5s3vPl88XIT0oll3Fx5W2QVk2wfc244epa_tfCiaRomBAqMRs_fRXM75IedUwV-wqyl7jc7AYcmGlsLpOiviZxkIGlEhA0uWw9XxauKWIwltLSt37KGhTC29JEu0uta0itMLC_WXGm7lC8Aw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJy06ZhNsgTIYRaoVK7lszllw",
+         "plus_code" : {
+            "compound_code" : "W5HJ+R3 Dallas, TX, USA",
+            "global_code" : "8645W5HJ+R3"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJy06ZhNsgTIYRaoVK7lszllw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "furniture_store",
+            "home_goods_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 147,
+         "vicinity" : "13350 Dallas Parkway, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9280985,
+               "lng" : -96.8134159
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9292932802915,
+                  "lng" : -96.81185191970849
+               },
+               "southwest" : {
+                  "lat" : 32.9265953197085,
+                  "lng" : -96.81454988029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Target",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113795055613351322972\"\u003eWael Mahrous\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAHnLNJdohGTqEPcvgYGR1909xCrtywuNGBbft0QgT7j00Yjg1KqBxgnoV5csKCvJ-0j-Vd9oqRwUsPeL1mgTctBHVMOQJYnBgqEYyjutD-EXxNSdDcDSLsWp6yGqlSH-GEhDDNqTQjMRsBBTbrOMyYFE9GhR9cKjRtDOXPZc6nFnUMrZq4UfeJQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJR12B5ecgTIYRrd3igC_oyFg",
+         "plus_code" : {
+            "compound_code" : "W5HP+6J Dallas, TX, USA",
+            "global_code" : "8645W5HP+6J"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJR12B5ecgTIYRrd3igC_oyFg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "department_store",
+            "grocery_or_supermarket",
+            "electronics_store",
+            "furniture_store",
+            "home_goods_store",
+            "food",
+            "point_of_interest",
+            "clothing_store",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 561,
+         "vicinity" : "13131 Montfort Drive, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.1079193,
+               "lng" : -96.81023169999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.1091787302915,
+                  "lng" : -96.80885541970849
+               },
+               "southwest" : {
+                  "lat" : 33.1064807697085,
+                  "lng" : -96.8115533802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Pacific Kitchen and Home",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104288772133600984378\"\u003ePacific Kitchen and Home\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAASI4dceLKUQlVfMpEEgmrmyzGTpf7TN2KHOnIToqKvD7m5ZZtb3eGZ07T0NVQupQCNl7Y36YRzgTOpubSKxTfB-bRlt_Dy7xdlEzicjOY1LcdbP1bBB2HZhT6pgaHslI7EhAqRt4Ml24rT1q6IfXSChU8GhQFndk6LAo4knswQYvKIBp8lm60ag",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJ1cZ_U408TIYRlvdT_W7-YnA",
+         "plus_code" : {
+            "compound_code" : "455Q+5W Frisco, TX, USA",
+            "global_code" : "8655455Q+5W"
+         },
+         "rating" : 1,
+         "reference" : "ChIJ1cZ_U408TIYRlvdT_W7-YnA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "electronics_store",
+            "furniture_store",
+            "home_goods_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "3333 Preston Road #200, Frisco"
+      }
+   ],
+   "status" : "OK"
+}

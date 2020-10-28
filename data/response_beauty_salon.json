@@ -1,0 +1,968 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CrQCIQEAADPvtGLzGosnYlC8A3fjvBADLBhNZ1bqcMT3ymkSBQjWHple5H0fAzpnEP0H6BPyaFPsaqIsPM1iMShMy_BHXOZ3NcBiDA_rN6ByOO6dNHLd0dH3qCh7SyHlFd9Y8AOaKRjG5UcP0fzJwQuRt4tN4p5ta3B5HJQB8ZPfx-5cjfRECvxp5bbv4-sSWuEhJmBafx_DTfuT69C8Ws0VnV_7XTpfpO6AEl4tNnBOyMDRMxqemrdd4T50P6ZMrRXXMbCm3MZogxy67DpUPk1RS5EQrsxUbB0JKMX6myiIECTAnYJfq_mea05im302xFFpB04LQ1PqZs70s_x8DQRgZgQlB1RR9bHsAiePRLZzj8wRzlOj4AygtG8_6KgIWmVWhMuNeG-aaX99k7vrBTH_Izn-ZJ0SEL2qOfIdPxRwetFtKBk7nL0aFGx_l_cTd0FoFvxF0v05XZ74Y-Ii",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8080898,
+               "lng" : -96.797911
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8092901802915,
+                  "lng" : -96.79647191970851
+               },
+               "southwest" : {
+                  "lat" : 32.8065922197085,
+                  "lng" : -96.79916988029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Spa Habitat",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4016,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113602573261703255227\"\u003eSpa Habitat\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAU_YNmO9j8WI-R4QS87T8a6hPZ4vnMJV3dDDuzSWDaYdHlC1N4NIOLd6jYK-1U1rpwTH22-amf6kQYZJY7hBJiqRUdvCGFL1PCoQvRLwCtOrIabg9rSPTs9RbAmmEeGuEEhAGi6fP6f7oEqvADLeobqePGhQdJ94W-peMdGuEy0nvkkW5TMPdcg",
+               "width" : 6016
+            }
+         ],
+         "place_id" : "ChIJQyZ5EtSeToYRPmIEyE5XtnY",
+         "plus_code" : {
+            "compound_code" : "R652+6R Dallas, TX, USA",
+            "global_code" : "8645R652+6R"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJQyZ5EtSeToYRPmIEyE5XtnY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "spa",
+            "beauty_salon",
+            "hair_care",
+            "health",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 62,
+         "vicinity" : "3699 McKinney Avenue # 304, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8091229,
+               "lng" : -96.79656039999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.81062663029149,
+                  "lng" : -96.79532666970849
+               },
+               "southwest" : {
+                  "lat" : 32.8079286697085,
+                  "lng" : -96.79802463029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Avalon Salons and Spa",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 811,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103206781993671701935\"\u003eAvalon Salons and Spa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjvu0xiCsq3Hresnge6AGFdNp6ds2XtJpNogMgfMfufYRzi_rBNEtQkIudXUZo7H3ojKhMUiNh586V-UumZNi30wvxKaTEPwkiJ8OIVb-JEWPCZKSRcMJ9l5VNRtOu6xTEhBMn-_FOuA-3AUOw-sggJ-BGhTI8PwiYJigrQnFpm2xkL435DtTKA",
+               "width" : 672
+            }
+         ],
+         "place_id" : "ChIJQyZ5EtSeToYRkdf2-sP_150",
+         "plus_code" : {
+            "compound_code" : "R653+J9 Dallas, TX, USA",
+            "global_code" : "8645R653+J9"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJQyZ5EtSeToYRkdf2-sP_150",
+         "scope" : "GOOGLE",
+         "types" : [
+            "beauty_salon",
+            "hair_care",
+            "spa",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 84,
+         "vicinity" : "3699 McKinney Avenue #412, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9491784,
+               "lng" : -96.73833839999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9505133302915,
+                  "lng" : -96.73690766970849
+               },
+               "southwest" : {
+                  "lat" : 32.9478153697085,
+                  "lng" : -96.73960563029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Heena Salon",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112057768930499924313\"\u003eWhitney Hain\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAtcG_9IuG2A6P3SvZn84SzEpcecuxB73VrMdYGyHpUFa49MCuDgFN6rosqwqGXagztPgf6qwdTcsmJhqnTX6EfUabUw7AgMIbShJkN20EBxqN_DHrsayd-IfomU-x8BZeEhC4ZNtOlU6WZioOnYDnKgfAGhSox1aGei-og9il0XqVtY08wX6szw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJS-SKwHAfTIYROoyuqQNe-7I",
+         "plus_code" : {
+            "compound_code" : "W7X6+MM Richardson, TX, USA",
+            "global_code" : "8645W7X6+MM"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJS-SKwHAfTIYROoyuqQNe-7I",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 237,
+         "vicinity" : "100 Central Expressway # 16B, Richardson"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8274455,
+               "lng" : -96.8876386
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8288704302915,
+                  "lng" : -96.88619296970849
+               },
+               "southwest" : {
+                  "lat" : 32.8261724697085,
+                  "lng" : -96.8888909302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Sterling Hotel Convention, Meeting and Event Center",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 625,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107604142172620982377\"\u003eSterling Hotel Convention, Meeting and Event Center\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAeOKKEiEExZ2XDHG_XvmmYeEy0gtaR7zkelyyXutIajL20bkGuOVkOT53iD15TXbtyFpyX8FbpFU9tqiJSvvL0wS7X9JE2rxsc7D5hSkDdyqE2krTHPMPW4ZUpoWou3DjEhDoOW-t_rTvRrpDWH4zi3sTGhRpUDOVKsPhlUgq_mGDaSwF-Dl2fw",
+               "width" : 833
+            }
+         ],
+         "place_id" : "ChIJfxwpH_KcToYRtn5IRJnH-hk",
+         "plus_code" : {
+            "compound_code" : "R4G6+XW Dallas, TX, USA",
+            "global_code" : "8645R4G6+XW"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJfxwpH_KcToYRtn5IRJnH-hk",
+         "scope" : "GOOGLE",
+         "types" : [
+            "beauty_salon",
+            "hair_care",
+            "lodging",
+            "bar",
+            "restaurant",
+            "food",
+            "health",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 448,
+         "vicinity" : "1055 Regal Row, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.0794794,
+               "lng" : -96.82266210000002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.08082863029149,
+                  "lng" : -96.8214656697085
+               },
+               "southwest" : {
+                  "lat" : 33.0781306697085,
+                  "lng" : -96.82416363029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Avalon Salons",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 811,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116844828208548817341\"\u003eAvalon Salons\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAs3F-wEIS6TRd1sZhYZ6fiSZhGZR49oaE2nlFTRhs2cXlnGX-UfFlaKGO24qJcrKonhKKEoEnSKeInD0tQCkDmmwbK0xPQyDj4ywK5k2ZVOKubzv4jn6zQpwVouc9zkOGEhAh04M5pYrLyOcmOriDmDQIGhSCUbw7Z9inVG80-x2KvBGKln4gvQ",
+               "width" : 672
+            }
+         ],
+         "place_id" : "ChIJ7cj2t7E8TIYRzZwImWB4_sw",
+         "plus_code" : {
+            "compound_code" : "35HG+QW Plano, TX, USA",
+            "global_code" : "865535HG+QW"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ7cj2t7E8TIYRzZwImWB4_sw",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "hair_care", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 62,
+         "vicinity" : "7300 Lone Star Drive C138, Plano"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.85180989999999,
+               "lng" : -96.7690071
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8531025802915,
+                  "lng" : -96.76764531970849
+               },
+               "southwest" : {
+                  "lat" : 32.8504046197085,
+                  "lng" : -96.7703432802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Hawaiian Nail Bar Dallas",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 360,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101003540690988092448\"\u003eHawaiian Nail Bar Dallas\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXJCSsycGeZ3h_dDjtNoVoRQ3s0ww4vPKJtz9fU3ZIkaCJ2gYfRp-lszp-ZvMfLR142Tx1DH1-nKwe2AO9FS8UM_qfxZXnzw3jL3DO1vxI0gWgax8M-JEkIR3JUUZrAtmEhA8AdUlGYDZpUxHaD_IXwNzGhSzSrmhf4WOa0QeXHF_T_unYeH6yA",
+               "width" : 480
+            }
+         ],
+         "place_id" : "ChIJ5dFys5-fToYRALfODHotQu4",
+         "plus_code" : {
+            "compound_code" : "V62J+P9 Dallas, TX, USA",
+            "global_code" : "8645V62J+P9"
+         },
+         "rating" : 3,
+         "reference" : "ChIJ5dFys5-fToYRALfODHotQu4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "beauty_salon",
+            "hair_care",
+            "spa",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 268,
+         "vicinity" : "5500 Greenville Avenue #216, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.92989850000001,
+               "lng" : -96.8195585
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.93129458029151,
+                  "lng" : -96.81874011970849
+               },
+               "southwest" : {
+                  "lat" : 32.92859661970851,
+                  "lng" : -96.8214380802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Salon Favorite of Galleria Mall",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJy06ZhNsgTIYR9CvHifOhoS4",
+         "plus_code" : {
+            "compound_code" : "W5HJ+X5 Dallas, TX, USA",
+            "global_code" : "8645W5HJ+X5"
+         },
+         "rating" : 3,
+         "reference" : "ChIJy06ZhNsgTIYR9CvHifOhoS4",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "hair_care", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "13350 Dallas Parkway, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.12794650000001,
+               "lng" : -96.6582062
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.1293500802915,
+                  "lng" : -96.6568620197085
+               },
+               "southwest" : {
+                  "lat" : 33.1266521197085,
+                  "lng" : -96.6595599802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Image Nation Salons & Med Spa",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109685663793101880288\"\u003eImage Nation Salons &amp; Med Spa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5mS8BlOLMe-TsxEAVb67ae3kGqspmbl3vddUUnPtJJcdG4oBkaoyurwkksp2bX_3SeKHKUqMDMqDlvHGU8WQ30FE2qDzp9h5XyHLNBIhNuYC9v0GBBD-Nm-uxA09Os1kEhAWqMpZ4I0lT4xPHbv2QubQGhQ7eZKnZaSZzlM4EvJdzOcnuNL7nw",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJb5H8vSkRTIYRtd1bAU3Sv6o",
+         "plus_code" : {
+            "compound_code" : "48HR+5P Allen, TX, USA",
+            "global_code" : "865548HR+5P"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJb5H8vSkRTIYRtd1bAU3Sv6o",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "spa", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 89,
+         "vicinity" : "190 East Stacy Road #1724, Allen"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.0256276,
+               "lng" : -96.793477
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.0269641802915,
+                  "lng" : -96.79203571970849
+               },
+               "southwest" : {
+                  "lat" : 33.0242662197085,
+                  "lng" : -96.79473368029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "European Wax Center",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112915783260419997954\"\u003eEuropean Wax Center\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAd_RVi3-AWvuieP00LRS5bUnfQNVLdEefcJVaX3krN4tjvaKC2jOyo1oP2sWyEFN0C-QFANA5zOENXC6hCMiCGq_o_hHwhasuJ4uyMqprYoKdwkqtnV5Dx5j36-HwYqT3EhALgMU6uqFFSoup4_MgiVGbGhQGxUvDAC6vR0XhpoPz9meMCnwznQ",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJ9SzSqlUiTIYRmfkMHV05ju0",
+         "plus_code" : {
+            "compound_code" : "26G4+7J Plano, TX, USA",
+            "global_code" : "865526G4+7J"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ9SzSqlUiTIYRmfkMHV05ju0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "beauty_salon",
+            "hair_care",
+            "spa",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 84,
+         "vicinity" : "1900 Preston Road #195 195, Plano"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9332856,
+               "lng" : -96.8174233
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9345574802915,
+                  "lng" : -96.81606926970849
+               },
+               "southwest" : {
+                  "lat" : 32.9318595197085,
+                  "lng" : -96.8187672302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Plush Nails & Spa",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109489938208772156142\"\u003eAdreana Pruitt\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACoVQb-N3vDCTKj4aXYcYA0MIkdSCcff48yuxn1u6JN9IVebJNqyVC2VgSBh-mwQr39SxUZgx7asZTFStJm4Q9QU1ZxUjSa553PsnCBZA__ptYf29uwSrfIakOn4cREtDEhCzPkhahz9LIBK1DoWRVzijGhQf2zcGR0cSW1IP4m4zAkVFZ27NYw",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJ29A3l94gTIYRTDtUlFob9uE",
+         "plus_code" : {
+            "compound_code" : "W5MM+82 Dallas, TX, USA",
+            "global_code" : "8645W5MM+82"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ29A3l94gTIYRTDtUlFob9uE",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "spa", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 88,
+         "vicinity" : "5301 Alpha Road UNIT 13, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9114837,
+               "lng" : -96.8055346
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.91270768029149,
+                  "lng" : -96.8041859697085
+               },
+               "southwest" : {
+                  "lat" : 32.9100097197085,
+                  "lng" : -96.80688393029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Sola Salon Studios",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 473,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102815315280673601539\"\u003eSola Salon Studios\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAg2dYgAPjZATW5ojIQH0kJblR4w0VlDW_FgFdTbgTRxrWguYsk3oq2pCtLNRxAiU6bXI_0WBoZrTQ8XwjiVPaElxE3-SmVgMhX-r9wQ61U46b3QNTLCfdfU3tUey4nOAMEhB9qplmkec9SnkvL_hzDuIcGhSQTPwR4S_s_9HZ1eo8468U63DtxA",
+               "width" : 700
+            }
+         ],
+         "place_id" : "ChIJfxzjA_A-TIYRqWL4QfN7s20",
+         "plus_code" : {
+            "compound_code" : "W56V+HQ Dallas, TX, USA",
+            "global_code" : "8645W56V+HQ"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJfxzjA_A-TIYRqWL4QfN7s20",
+         "scope" : "GOOGLE",
+         "types" : [
+            "beauty_salon",
+            "hair_care",
+            "health",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 32,
+         "vicinity" : "11909 Preston Road #1436, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.0417245,
+               "lng" : -96.73442639999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.0429986802915,
+                  "lng" : -96.73307786970848
+               },
+               "southwest" : {
+                  "lat" : 33.0403007197085,
+                  "lng" : -96.7357758302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Parker Salon Suites",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 638,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107382144410906958455\"\u003eParker Salon Suites\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAiXsqysjqjm-Cfm3mWJHf3pEXa0YSdtSd3nRnisNTpKYs1mS2kEvYrSNHmPe7Va1TLFFHjqf8vvUVcd2HarwVrzeAcTy2ItFZTNGchC79kAYeJ1xUE3nyahNSo92rZpiEEhAgqtpb982n0_dZbcHTZ4eQGhSRM5_Va3BulehGml7q8mueB-raMQ",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJEy7hxWUYTIYRG7s3Ws7SWtw",
+         "plus_code" : {
+            "compound_code" : "27R8+M6 Plano, TX, USA",
+            "global_code" : "865527R8+M6"
+         },
+         "rating" : 4,
+         "reference" : "ChIJEy7hxWUYTIYRG7s3Ws7SWtw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "beauty_salon",
+            "hair_care",
+            "finance",
+            "spa",
+            "health",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 25,
+         "vicinity" : "2109 West Parker Road #99, Plano"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.04413820000001,
+               "lng" : -96.8318877
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.04576663029151,
+                  "lng" : -96.83054126970849
+               },
+               "southwest" : {
+                  "lat" : 33.04306866970851,
+                  "lng" : -96.8332392302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Smooth Solutions",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3481,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107112789767370602679\"\u003eSteve Wheeler\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAy1YndOXftfusqzoqX5TfxZMH2jQZhWG2lVlTredIpWwiI-AL0x-inCu7E4iclqtU2l5ozX9eTH3wgH-BBFaf71gpf03sIf-X4EXrc2YBcqHj6ieH9SJppNV5urd6P6DCEhDeUW2kZhPWVaRM714d4mnSGhQb3PAgZ5iN-reEKvtjy1TBdeMNAw",
+               "width" : 4738
+            }
+         ],
+         "place_id" : "ChIJk8jmengjTIYRgGHO1Qi5oyk",
+         "plus_code" : {
+            "compound_code" : "25V9+M6 Plano, TX, USA",
+            "global_code" : "865525V9+M6"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJk8jmengjTIYRgGHO1Qi5oyk",
+         "scope" : "GOOGLE",
+         "types" : [
+            "beauty_salon",
+            "hair_care",
+            "health",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 31,
+         "vicinity" : "6020 West Parker Road #400b, Plano"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.91132899999999,
+               "lng" : -96.80524699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.91262973029149,
+                  "lng" : -96.80383246970848
+               },
+               "southwest" : {
+                  "lat" : 32.9099317697085,
+                  "lng" : -96.80653043029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Gel Nails By Cheryl",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 338,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104263187113356611729\"\u003eGel Nails By Cheryl\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAKEP00hrGgJl4PkCoom_cFilNIP_yD40Al4s90sXpo6MD2N-LeE0JkxKQzzQ76Tl92bpDqfJwpDEXMJuQGLo2Pu27SwMatgIIufyD0a82tOWDPknFBDq6SalKWZILrMMKEhAovvb7En6RLiA_q5sjZONYGhS8u-yLP5EAarhAleA8FxoSxRXloQ",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJLUJtLpIgTIYRuD7mONNARTI",
+         "plus_code" : {
+            "compound_code" : "W56V+GW Dallas, TX, USA",
+            "global_code" : "8645W56V+GW"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJLUJtLpIgTIYRuD7mONNARTI",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 25,
+         "vicinity" : "11909 Preston Road #1436 Studio 2, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.0254947,
+               "lng" : -96.7935354
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.0267782802915,
+                  "lng" : -96.79218176970849
+               },
+               "southwest" : {
+                  "lat" : 33.0240803197085,
+                  "lng" : -96.7948797302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "TONI&GUY",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111449567213716450456\"\u003eTONI&amp;GUY Hair Salon\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAcrDS7VdfKYMiV7mq1tt-hf2cGjyko3AmeIb5rFZom6cXLCy406lii_MBoA50QyBH2zbihdf0dhmIo7wrxHY5Qcm8vNQ6rRne4lsEiA7VjVSln9DwYhZ9UbQz_rN0G4CpEhAx6MUPqnoEKlQGvaNlonswGhSSTzOH6jqd4B2opF1E-1PT6JRrFw",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJL2Cr1lQiTIYRSPcKBNtf5_s",
+         "plus_code" : {
+            "compound_code" : "26G4+5H Plano, TX, USA",
+            "global_code" : "865526G4+5H"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJL2Cr1lQiTIYRSPcKBNtf5_s",
+         "scope" : "GOOGLE",
+         "types" : [
+            "beauty_salon",
+            "hair_care",
+            "health",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 71,
+         "vicinity" : "1900 Preston Road Suite 199, Plano"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.86427150000001,
+               "lng" : -96.83590839999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8655529802915,
+                  "lng" : -96.83452736970848
+               },
+               "southwest" : {
+                  "lat" : 32.8628550197085,
+                  "lng" : -96.83722533029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Salon Jonas Aveda",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101649570354095416406\"\u003eSalon Jonas Aveda\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA6KpWklCRpDRYX2am2lQqyI-_mrvq3yHOlw77_dvsRrU7YNVacboUj4MYoPKfgFskidYpsPU8bZmpVxtXgrmU0qMwJzdQrap2RyfCEbL75l6vb9TdyTxjwrZK4tXTP6yTEhA6iAApMyn5tKhB62njX0OAGhQsR-IH8FmXP6Xi2P4wnX3dNEpZww",
+               "width" : 1800
+            }
+         ],
+         "place_id" : "ChIJodnwRt-dToYRZjdrdC8SG_c",
+         "plus_code" : {
+            "compound_code" : "V577+PJ Dallas, TX, USA",
+            "global_code" : "8645V577+PJ"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJodnwRt-dToYRZjdrdC8SG_c",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "hair_care", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 90,
+         "vicinity" : "4343 West Northwest Highway #385, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.956218,
+               "lng" : -96.81596359999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.95757123029149,
+                  "lng" : -96.81475201970849
+               },
+               "southwest" : {
+                  "lat" : 32.9548732697085,
+                  "lng" : -96.8174499802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Ulta Beauty",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106405987672692715206\"\u003eUlta Beauty\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAY0g96rLLQadNjNay93WpLWpJ2Mynidi1BJRBz1Iexs2R3uyE-vqAVYA6V2rltLPnGs2EM2KbltKAOOq108rs-xBnvB4I4nAmRhWrWitfd_G2d6Jv8Uc4cwlflqFLeTxEhDd03KRzvxnbZ1DKEzu0aECGhRdb7lMTZh316U6f1DkjBmmCOxxUA",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJnVzmzT0hTIYRo_TqeVbU4Qg",
+         "plus_code" : {
+            "compound_code" : "X54M+FJ Dallas, TX, USA",
+            "global_code" : "8645X54M+FJ"
+         },
+         "rating" : 4,
+         "reference" : "ChIJnVzmzT0hTIYRo_TqeVbU4Qg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "beauty_salon",
+            "hair_care",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 329,
+         "vicinity" : "5301 Belt Line Road Ste 114, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.973338,
+               "lng" : -96.843502
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9748506802915,
+                  "lng" : -96.8420841697085
+               },
+               "southwest" : {
+                  "lat" : 32.9721527197085,
+                  "lng" : -96.84478213029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "name" : "Paul Mitchell The School Dallas",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 501,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113686909970276127006\"\u003ePaul Mitchell The School Dallas\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAH261pNwK3b_ckTLwLLjs-0T1TXkwkXF5A6OF2AOgn7UdzQQR4Gx8SOuA4tERHGSz9W9d9cRTDagCkl-iVhaE2yZDtxF3iDEkv9R5yMd6SsymvNRtvsbx3g6WES8CjwthEhATOz1_gpWpfhP39H0pBIRnGhQu8jnSWZ4lzIsgwtXNeibXEs5nQg",
+               "width" : 996
+            }
+         ],
+         "place_id" : "ChIJP36E_a4mTIYRc91DyI9pszc",
+         "plus_code" : {
+            "compound_code" : "X5F4+8H Carrollton, TX, USA",
+            "global_code" : "8645X5F4+8H"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJP36E_a4mTIYRc91DyI9pszc",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "hair_care", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 165,
+         "vicinity" : "2389 Midway Road suite a, Carrollton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.0405217,
+               "lng" : -96.752409
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.04180323029151,
+                  "lng" : -96.7510602697085
+               },
+               "southwest" : {
+                  "lat" : 33.03910526970851,
+                  "lng" : -96.75375823029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "KidsBKids",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102611564960963412961\"\u003eRobert Taylor\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA9k8kVDgBrurxjnIakNrtvwo6S2iPITFKX-43U6RDkuw9rEp3rOEVpsgUb5CzzAegOu38U8CMVOBl0ERfSOnzxQv36TxdQqxwpcmZPq81LgauYfrBQ_E0K4iIwv2yHu8mEhCpRwcsBFfISbYhh1BhPNMrGhQuGOS2uIs6SjxkRluZec7mB52tPg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJbabYr4MiTIYRqC1zr63qz-g",
+         "plus_code" : {
+            "compound_code" : "26RX+62 Plano, TX, USA",
+            "global_code" : "865526RX+62"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJbabYr4MiTIYRqC1zr63qz-g",
+         "scope" : "GOOGLE",
+         "types" : [
+            "beauty_salon",
+            "hair_care",
+            "health",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 102,
+         "vicinity" : "3100 Independence Parkway #106, Plano"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.009972,
+               "lng" : -96.714878
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.0113335802915,
+                  "lng" : -96.71344201970849
+               },
+               "southwest" : {
+                  "lat" : 33.0086356197085,
+                  "lng" : -96.7161399802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "David M Jones Hair Stylist",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117846492907269727381\"\u003eDavid M Jones Hair Stylist\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAEEpOU3RyGeCFY77q4WIIASLgkLpFhxXe9-fzmLz6ZaSe4kEZbe84eu5d27O5ZL12ckpGomFEBZzZJwJR91vKJCf_jSTtEtP4yEqhE340pamQOOGZtQpiitr1lRu_7ARREhB2bMBMWW2A0AvMtxnVI2uDGhThgyp8o_T82UZ3Numj2wjVuKriZw",
+               "width" : 714
+            }
+         ],
+         "place_id" : "ChIJ4QG_dt0YTIYRFzzZDIbnFzc",
+         "plus_code" : {
+            "compound_code" : "275P+X2 Plano, TX, USA",
+            "global_code" : "8655275P+X2"
+         },
+         "reference" : "ChIJ4QG_dt0YTIYRFzzZDIbnFzc",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "point_of_interest", "establishment" ],
+         "vicinity" : "700 Alma Drive #125, Plano"
+      }
+   ],
+   "status" : "OK"
+}

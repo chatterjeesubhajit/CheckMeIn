@@ -1,0 +1,999 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CqQCHwEAAEgu20SF1Mv3nymrsiYQUZTBDcdZZoF-4G65eJm99qbiTMLBRugHYkUDk5IEH9c-bYGKYJTmYklQUKqo3bBnBG9UCdr-yDlTK6sC1YXEvDhTxmhRrNnrDaX4AlA3DEaY-5uZUyTSgeuQWe4RJ1TZYWjDFgSqI2rZ2TcwLthhWuMoUEvLMY9TpuJm1ywWe41cK0TF0rfj3-Fgs3lp0XbXTTkAfRXVmCYDipk8yeab_INT7yvOYyh_FShll_q4pwGpL24np88yNAv5YB1P60FvVEXedZnx8r4WaAlIg9_cV54KxSI4gazaZFY2R0ZZsMwPG-jm1NBr4F-8-uwAR5yV3utfdl0hfX4BAiQn2IIK0UJKQTsKa7MJUZ2ceEfHNQHsPxIQvGk5Qq2UmBbLGPCdS7OA9RoUKIrxp71MvOgSvqQ65eDKUz4RfEw",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.0817364,
+               "lng" : -96.848243
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.0833456802915,
+                  "lng" : -96.8470108197085
+               },
+               "southwest" : {
+                  "lat" : 33.0806477197085,
+                  "lng" : -96.84970878029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Toyota of Plano",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2142,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113313541204554976093\"\u003eToyota of Plano\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAA-OHNtWSKfdOZtq0jIXH1XZ3TLUeZkkAWAQuX0VYRAqij9iEVYPVx5iAC_Yn6HvTIMczi8wmhZRHi_RVOTt-ZeQXPDDgZpiHeki8wyjZo8E3pxQnekzbLVvZgeTm190MEhDSM856iu9DZlNZy5JurVQOGhRIDU3oBZkw7zKcixuOLgQJp21CWg",
+               "width" : 3826
+            }
+         ],
+         "place_id" : "ChIJLw4cxLMjTIYRYfHBVW8YjCc",
+         "plus_code" : {
+            "compound_code" : "35J2+MP Plano, TX, USA",
+            "global_code" : "865535J2+MP"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJLw4cxLMjTIYRYfHBVW8YjCc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "car_dealer",
+            "car_repair",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 3313,
+         "vicinity" : "6888 Texas 121, Plano"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.825787,
+               "lng" : -96.82264200000002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8271797802915,
+                  "lng" : -96.8212092697085
+               },
+               "southwest" : {
+                  "lat" : 32.8244818197085,
+                  "lng" : -96.82390723029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "John Eagle Honda of Dallas",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 692,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116198986490735847297\"\u003eJohn Eagle Honda of Dallas\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-A_QfAWKGfK6VBzxmK1dNtw_Z3eBzvjSQQ76Sol7mNWkoOtWTeSmnp44DifMtyeNdRc8uI9nm9w3OErODKcxFe4SxuOSKBv4ahBZ5RGzAwCPqglg3wtC1xWP0i5iYv8nEhD9oOVFqjawrGZCKBPKUSMEGhR14fgQ2LGHderiVIyoaYYgKkNrrw",
+               "width" : 1500
+            }
+         ],
+         "place_id" : "ChIJ2YGT2JeeToYRWbHa2F3E_xk",
+         "plus_code" : {
+            "compound_code" : "R5GG+8W Dallas, TX, USA",
+            "global_code" : "8645R5GG+8W"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ2YGT2JeeToYRWbHa2F3E_xk",
+         "scope" : "GOOGLE",
+         "types" : [
+            "car_dealer",
+            "car_repair",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1350,
+         "vicinity" : "5311 Lemmon Avenue, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.86242339999999,
+               "lng" : -96.66189089999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8639211302915,
+                  "lng" : -96.66053351970849
+               },
+               "southwest" : {
+                  "lat" : 32.8612231697085,
+                  "lng" : -96.66323148029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Sport City Toyota",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 326,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114758272682672785929\"\u003eSport City Toyota\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2gog4VugtW-iPhb3vSULwCPfc3K7-W4VUCeZPplaawgafHPmjOseNbUgZDpKUtSy3dopTkPu0qjLBdhM5aLdWRncwsmAae_oNyIMmerU0Aau55xI7LBpns6SINrSFauoEhBnFziEiCJFKzCi-2HkhLM2GhSA_O_pJ2zvMW0iU4zooYae_wX8eg",
+               "width" : 581
+            }
+         ],
+         "place_id" : "ChIJZ7gngCynToYRRsVeGSX4QRc",
+         "plus_code" : {
+            "compound_code" : "V86Q+X6 Dallas, TX, USA",
+            "global_code" : "8645V86Q+X6"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJZ7gngCynToYRRsVeGSX4QRc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "finance",
+            "car_dealer",
+            "car_repair",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1412,
+         "vicinity" : "12650 Lyndon B Johnson Freeway, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8342731,
+               "lng" : -96.82910009999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8356220802915,
+                  "lng" : -96.82775111970849
+               },
+               "southwest" : {
+                  "lat" : 32.8329241197085,
+                  "lng" : -96.8304490802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "BMW of Dallas",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1651,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116084934716949800748\"\u003eBMW of Dallas\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA9NjBlGWg--7YHGXB1QgZz_6RhL8UxtgJte0BCdM2QEpWHue7OPLDPa6AJSh9zCLSsjG38ij74eYUFi89JvhyAvgknR1S1PtMgvcDSVoXPsjtzpy9hRr9wI1vco5DSY2qEhBE4RehJMd3Pw2sARU7H-BkGhSqwuw5vmVFVYema91p9Emx6M7rfg",
+               "width" : 2500
+            }
+         ],
+         "place_id" : "ChIJ7V6Rb5ueToYRjFJBDOkB0eY",
+         "plus_code" : {
+            "compound_code" : "R5MC+P9 Dallas, TX, USA",
+            "global_code" : "8645R5MC+P9"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ7V6Rb5ueToYRjFJBDOkB0eY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "car_dealer",
+            "car_repair",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 3412,
+         "vicinity" : "6200 Lemmon Avenue, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.01674079999999,
+               "lng" : -96.7146789
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.01822363029149,
+                  "lng" : -96.7133433697085
+               },
+               "southwest" : {
+                  "lat" : 33.0155256697085,
+                  "lng" : -96.7160413302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Mastertech Auto Care",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113198501591603181684\"\u003eMastertech Auto Care\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkbRPdqlB-uXkYGJIPCOsH_3YurBidGqp0kuw2lwJL50xPyKtHokb8f9rfnXFsj0zyIDalhqv-VJnzPKnwocmLzQw6pskVywwpOagj8Xp-cHQy8ZYCU6yysYOfYHje--5EhD5sz9QPGr1KWVFZREUFTuiGhTi-WgMfdrUcgzHJTP9PDLmTP9ODw",
+               "width" : 2397
+            }
+         ],
+         "place_id" : "ChIJ8dtVxuUYTIYRD-l0AUbWyXo",
+         "plus_code" : {
+            "compound_code" : "278P+M4 Plano, TX, USA",
+            "global_code" : "8655278P+M4"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ8dtVxuUYTIYRD-l0AUbWyXo",
+         "scope" : "GOOGLE",
+         "types" : [ "car_repair", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 170,
+         "vicinity" : "900 West 15th Street # B, Plano"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9662576,
+               "lng" : -96.723748
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9674187802915,
+                  "lng" : -96.7221869697085
+               },
+               "southwest" : {
+                  "lat" : 32.9647208197085,
+                  "lng" : -96.72488493029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Lute Riley Honda",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116839750771879699245\"\u003ePA Chorney\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAh9j_doXKImR87ZQLRSHjde0eA0upNZBnhxS57QQJJrfsAwTGJ93mcWaiPEUdqNm4B85DD-u7cZxvz_lwA-aXzl55TJUwZYrUPX6y9dZvGidOlvWSyo_S8Od66sMZhZ69EhDvr7RFu_fcImbO_fPeSUqaGhSrqS0mpkZrm856bWJnaf-XrQHrDQ",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJSY7jGT4fTIYR0jGiabCeML8",
+         "plus_code" : {
+            "compound_code" : "X78G+GG Richardson, TX, USA",
+            "global_code" : "8645X78G+GG"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJSY7jGT4fTIYR0jGiabCeML8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "car_dealer",
+            "car_repair",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 5674,
+         "vicinity" : "1331 North Central Expressway, Richardson"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.056045,
+               "lng" : -96.71159469999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.0574449302915,
+                  "lng" : -96.71024496970848
+               },
+               "southwest" : {
+                  "lat" : 33.0547469697085,
+                  "lng" : -96.7129429302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Pep Boys Auto Parts & Service",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3984,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100744960879684521134\"\u003ePaul Bishop\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQUCLHL1hPjSCOumQJTtS9DP3ZZHCQUkfDQvC66e_So5nEwER8qpmnhFi8CYk6M8dwH01Q-Bqr8Bmo9DbeC4MnfQFeNweoh0QzeV7akWeTbhpiUvtTzd-miP38Ep5hiSbEhCUasAaTulHyLwXQqEmbfx6GhSvEipGWan2Z5p3VjRvfi-ULig6MQ",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJQ2bH_jUYTIYR0-_hTOxOSt0",
+         "plus_code" : {
+            "compound_code" : "374Q+C9 Plano, TX, USA",
+            "global_code" : "8655374Q+C9"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJQ2bH_jUYTIYR0-_hTOxOSt0",
+         "scope" : "GOOGLE",
+         "types" : [ "car_repair", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 371,
+         "vicinity" : "928 West Spring Creek Parkway, Plano"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.828736,
+               "lng" : -96.828678
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8297685802915,
+                  "lng" : -96.82700396970849
+               },
+               "southwest" : {
+                  "lat" : 32.8270706197085,
+                  "lng" : -96.82970193029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Randall Reed's Park Cities Ford of Dallas",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2612,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103538246464345045296\"\u003eRandall Reed&#39;s Park Cities Ford of Dallas\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA7Jf4qG7rN-y4KoVrNznGZuuSonaf91UtKgA9Ib2mCSM2xYAOM7eEx6iSpf35CFi8Go-ECtGFphpV1hxI4tTTiK80j4wZWyou5R7M4oIlU7rBrCzMtqid4RfRWLE3VK7mEhC9A7L0yW3hbU0ecKg--xddGhRwIj-jF5AHdJtZkawYt_jJVp2QWQ",
+               "width" : 3611
+            }
+         ],
+         "place_id" : "ChIJQ75FI5meToYR8NRBrWRTC0w",
+         "plus_code" : {
+            "compound_code" : "R5HC+FG Dallas, TX, USA",
+            "global_code" : "8645R5HC+FG"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJQ75FI5meToYR8NRBrWRTC0w",
+         "scope" : "GOOGLE",
+         "types" : [
+            "car_wash",
+            "car_dealer",
+            "car_repair",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1742,
+         "vicinity" : "3333 Inwood Road, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.0665345,
+               "lng" : -96.82143619999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.06757228029151,
+                  "lng" : -96.82015026970848
+               },
+               "southwest" : {
+                  "lat" : 33.06487431970851,
+                  "lng" : -96.8228482302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Classic BMW",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1253,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110842421932593400029\"\u003eClassic BMW\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPkLf-6pUULx5Yt8YUwVX58VWaL69DRza_oCPtY8d3MrLo682sinkbnT11JJYyUa6zu0h81OIJcTiQZhjB0DauEZkHzryqEykg9hWSD110u2yIlXyqtD8RQBLWvyLoWsLEhDZLs54w_rzDTLSZyz1FiNoGhTeqJocrYXoBaAwM8ipyPmq80Brqw",
+               "width" : 2510
+            }
+         ],
+         "place_id" : "ChIJF2LyeE4jTIYRaBg_03WHG3M",
+         "plus_code" : {
+            "compound_code" : "358H+JC Plano, TX, USA",
+            "global_code" : "8655358H+JC"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJF2LyeE4jTIYRaBg_03WHG3M",
+         "scope" : "GOOGLE",
+         "types" : [
+            "car_dealer",
+            "car_repair",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 3523,
+         "vicinity" : "6800 Dallas Parkway, Plano"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.947225,
+               "lng" : -96.73575149999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.94852298029149,
+                  "lng" : -96.7344191697085
+               },
+               "southwest" : {
+                  "lat" : 32.94582501970849,
+                  "lng" : -96.73711713029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Town North Mazda",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112755260132283040318\"\u003eTown North Mazda\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAAahbdc-mDM1Ub0wrlfn16MqW4sfu8Xg-PXINWrdpBwpmbcsJ14FEJS1pm-r_YOi5r_GqoR_tCWIgYJqSErllBiplWkqxa5eW1e9EE0twZ62eIXP7xH77A6_K9SR7nYo5EhCboKf1I3JZqFqEsVwfYhYVGhToRR_R3TP2zyIjtSv-ZqQ3ElPUFA",
+               "width" : 1406
+            }
+         ],
+         "place_id" : "ChIJ7_zAJncfTIYRk8W4t5QucG0",
+         "plus_code" : {
+            "compound_code" : "W7W7+VM Richardson, TX, USA",
+            "global_code" : "8645W7W7+VM"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ7_zAJncfTIYRk8W4t5QucG0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "car_dealer",
+            "car_repair",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1248,
+         "vicinity" : "307 Central Expressway, Richardson"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9715824,
+               "lng" : -96.7201877
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9729259302915,
+                  "lng" : -96.71857211970848
+               },
+               "southwest" : {
+                  "lat" : 32.9702279697085,
+                  "lng" : -96.7212700802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Courtesy Nissan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2220,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100421825979366887358\"\u003eCourtesy Nissan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALeF73zfb0opnXjlg3Dk3HhE4CIS9KNzil48cG-CmgAdvE87HKC65D9ic-MOJz0EJ3F36jYg57Ewi3WZVIRbvX50rpM71Cg2tDj66NqQwXA604VVijghlltK7lu_xKZ60EhAYZ1YV10aYJHfuYp-K2Y-RGhRoUs0OA_9sNWdwfhfvuVDK_fPo0w",
+               "width" : 4376
+            }
+         ],
+         "place_id" : "ChIJm9jWnTwfTIYRJnrJHBwtG8w",
+         "plus_code" : {
+            "compound_code" : "X7CH+JW Richardson, TX, USA",
+            "global_code" : "8645X7CH+JW"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJm9jWnTwfTIYRJnrJHBwtG8w",
+         "scope" : "GOOGLE",
+         "types" : [
+            "car_dealer",
+            "car_repair",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 4594,
+         "vicinity" : "1777 North Central Expressway, Richardson"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.909017,
+               "lng" : -96.876508
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9106365302915,
+                  "lng" : -96.8753223697085
+               },
+               "southwest" : {
+                  "lat" : 32.9079385697085,
+                  "lng" : -96.87802033029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Pep Boys Auto Parts & Service",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100727328030215309329\"\u003ePhilip Suter\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAA4XpiO7A3zmSTuhiXwD8S7AhKzDHC5HMR_mp1v3wsr-evKSLFeWwkb-fpS32AZantwVkZ87LCDg5uGw1Vdt0JJqtDwpI63r_O7t16NlPo_Lbg5z8hQQ3DjDoGIiaBeCWEhDyavqslevg5re0uiRSJAtdGhTaDzuXRgzGSLfymc_aCy1EklSv6w",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJT8MiVXQnTIYRp33RSFa3PA8",
+         "plus_code" : {
+            "compound_code" : "W45F+J9 Dallas, TX, USA",
+            "global_code" : "8645W45F+J9"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJT8MiVXQnTIYRp33RSFa3PA8",
+         "scope" : "GOOGLE",
+         "types" : [ "car_repair", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 497,
+         "vicinity" : "2992 Forest Lane, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.84222220000001,
+               "lng" : -96.86999999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8435155802915,
+                  "lng" : -96.86856516970849
+               },
+               "southwest" : {
+                  "lat" : 32.8408176197085,
+                  "lng" : -96.8712631302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Rick Fairless Strokers Dallas",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103536562851307690083\"\u003eCesar Quezada\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAW-VUaEGjAhin0yP2u-tN-OY4hTiGV91GtCYU4yFJGlw2J8e9PUI7BT3QLCUqb0v_cveC06y3YTDlfkjlr2Iems1IhKU_ZLgcIVszjVWMha9-Hbo6VA-3ZPa3Ld9zUaKwEhDfIe38QzoQ4nBn2JsScaJzGhRUjGHNJuF7eRHgtFi5PKQR9CRN2Q",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJt7QBrFOcToYRFStEfICdA8M",
+         "plus_code" : {
+            "compound_code" : "R4RJ+V2 Dallas, TX, USA",
+            "global_code" : "8645R4RJ+V2"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJt7QBrFOcToYRFStEfICdA8M",
+         "scope" : "GOOGLE",
+         "types" : [ "car_repair", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 450,
+         "vicinity" : "9304 Harry Hines Boulevard, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.93807779999999,
+               "lng" : -97.0128012
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.93933378029149,
+                  "lng" : -97.01166466970849
+               },
+               "southwest" : {
+                  "lat" : 32.93663581970849,
+                  "lng" : -97.0143626302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "name" : "Universal Technical Institute",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108091973743683392506\"\u003eUniversal Technical Institute\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJoHG60btYx001XcFTCL0AZmTIUDb_y9ao8vabW2O6I3hO6Kl6xhmjDdlVgG6N1aoCorSOWkgE-tM9dJaULQjIOLh3HFQxs_rqTgWmq3upPLHTCBFq7HVxFC-5HMbvdPQEhAYDZq86mMIT7enfuSgyAwWGhQEaIuXDRN7pZBDUMdTjn8Dxi-3rw",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJsbjprtArTIYRpZ7WwzRTLwo",
+         "plus_code" : {
+            "compound_code" : "WXQP+6V Irving, TX, USA",
+            "global_code" : "8644WXQP+6V"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJsbjprtArTIYRpZ7WwzRTLwo",
+         "scope" : "GOOGLE",
+         "types" : [ "car_repair", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 85,
+         "vicinity" : "5151 Regent Boulevard, Irving"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8114197,
+               "lng" : -96.84814159999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8127686802915,
+                  "lng" : -96.84679261970849
+               },
+               "southwest" : {
+                  "lat" : 32.8100707197085,
+                  "lng" : -96.8494905802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Friendly Chevrolet",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 863,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111096427044150268049\"\u003eFriendly Chevrolet\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3VpsiJsPOYL-Xpw-Z0vxfoFt5y6AcEAJ20IpNkHyBcpdP36BHTWi-qrYqn8K0Zu_vO3ysQK8_Qg8S8i4PsQ1HGsUSYGW0A6GIsLDr7KBZlW4xr2A83sLK2fzj5YPoLguEhBTL0FsJcIgnrVzH_rpBYqlGhTPtpguo5z2QmUHHVelJepiWSiupg",
+               "width" : 1531
+            }
+         ],
+         "place_id" : "ChIJLZXZeQ-cToYRwrEyfo8WzcA",
+         "plus_code" : {
+            "compound_code" : "R562+HP Dallas, TX, USA",
+            "global_code" : "8645R562+HP"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJLZXZeQ-cToYRwrEyfo8WzcA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "finance",
+            "car_dealer",
+            "car_repair",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 2917,
+         "vicinity" : "2754 North Stemmons Freeway, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.83483649999999,
+               "lng" : -96.82953099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8361463802915,
+                  "lng" : -96.82830956970848
+               },
+               "southwest" : {
+                  "lat" : 32.8334484197085,
+                  "lng" : -96.8310075302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "MINI of Dallas",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1710,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103566274307119389231\"\u003eMINI of Dallas\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAD6lZ4rVHTlfHnu10EB_VbpDorEjfnMYkX4qpdk6TrFCua0gkgjvU3Wn9PXJ9Ehl4Mo7Uhho4TDdHmqaPMBh6C9Q8kVP-69npeuVpb6rdsZfuUJOZjQ2SkHj6erOTXkrqEhB7Whfw_L7sUFpVIF5BRhUXGhQnLJyDo2Ms-UKwS1uX2aF035Z-aQ",
+               "width" : 2348
+            }
+         ],
+         "place_id" : "ChIJ7V6Rb5ueToYRf4eA2AyQm8s",
+         "plus_code" : {
+            "compound_code" : "R5MC+W5 Dallas, TX, USA",
+            "global_code" : "8645R5MC+W5"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ7V6Rb5ueToYRf4eA2AyQm8s",
+         "scope" : "GOOGLE",
+         "types" : [
+            "car_dealer",
+            "car_repair",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 409,
+         "vicinity" : "6250 Lemmon Avenue #1, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.0207047,
+               "lng" : -96.8305326
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.02207508029149,
+                  "lng" : -96.82901566970848
+               },
+               "southwest" : {
+                  "lat" : 33.01937711970849,
+                  "lng" : -96.8317136302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Ewing Subaru of Plano",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105461120281800418534\"\u003eDFW SUBARU GUY\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5jtNYNwQLsQD6WRmftdXfcBBKe5CyYMDk5JDt04TX36oXc8A4ojbR_8uOKuIgtgZOsAUEDzKwr6NHxIiKkWehwZHmdAXhqw7G0L5O2-DxsaHcMhMPGpdX1g_vI8N9tpOEhBfhto7KELXb5oVP-dL--_7GhSmLiglVmHDcz30zHZlugRbCyvNTQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJmfrs_04iTIYRD0PWvYvw1bQ",
+         "plus_code" : {
+            "compound_code" : "25C9+7Q Plano, TX, USA",
+            "global_code" : "865525C9+7Q"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJmfrs_04iTIYRD0PWvYvw1bQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "car_dealer",
+            "car_repair",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1644,
+         "vicinity" : "1555 Dallas Parkway, Plano"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.954512,
+               "lng" : -96.812226
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.95575288029151,
+                  "lng" : -96.81087671970849
+               },
+               "southwest" : {
+                  "lat" : 32.95305491970851,
+                  "lng" : -96.81357468029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "AAA Texas",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3328,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101102124576589178208\"\u003eElena Barsa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAojSK7IFWhs0RYy8TqXrTXmR0hcTLskIiXkGgV4uMuqoTUa120FQ-Oi4xwVWPWqYr8_64PvIaO-1_Z9T4AyeUaYRlVdZtf2W2jo5rkeYirfAIYMxObAR9FkenzwMAYdsbEhD0xzV7llO8OWoPBebxrD8oGhShaplEorc76T2A61yeZsVPzach9A",
+               "width" : 1872
+            }
+         ],
+         "place_id" : "ChIJzR6rqSafToYR86Qq8sRml48",
+         "plus_code" : {
+            "compound_code" : "X53Q+R4 Dallas, TX, USA",
+            "global_code" : "8645X53Q+R4"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJzR6rqSafToYR86Qq8sRml48",
+         "scope" : "GOOGLE",
+         "types" : [
+            "insurance_agency",
+            "car_repair",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 58,
+         "vicinity" : "5455 Belt Line Road #100, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9725571,
+               "lng" : -96.7202166
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9736100302915,
+                  "lng" : -96.71887361970849
+               },
+               "southwest" : {
+                  "lat" : 32.9709120697085,
+                  "lng" : -96.72157158029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "North Central Ford",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100378825368174888718\"\u003eNorth Central Ford\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqVm4mQeKjvsLMU4bv5tykUZqFe49p9Cp6GRhfrLi9wnos-hkNAgVwEPaw1bkYD5Sq4OhdmOAPot1F4pE9BE_8cclzq6rR1w7lyJWQa0c0NyDhM5osP3qIownoz9EuPDmEhC9Qi8tSkCziUgZgxpitQXPGhSMbStpb7gY8jI3NdWHpLU8XoFlQQ",
+               "width" : 1446
+            }
+         ],
+         "place_id" : "ChIJL2rpQTsfTIYROj0uGk6XLqw",
+         "plus_code" : {
+            "compound_code" : "X7FH+2W Richardson, TX, USA",
+            "global_code" : "8645X7FH+2W"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJL2rpQTsfTIYROj0uGk6XLqw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "car_dealer",
+            "car_repair",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 2021,
+         "vicinity" : "1819 North Central Expressway, Richardson"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8215952,
+               "lng" : -96.8177446
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8230448802915,
+                  "lng" : -96.81627466970849
+               },
+               "southwest" : {
+                  "lat" : 32.8203469197085,
+                  "lng" : -96.8189726302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Goodson Acura of Dallas",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116850951669799038567\"\u003eGoodson Acura of Dallas\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAlMr0W9_s54Bi7f6GPaVGyhQk4fZqQkSBBGetUUL85mG4rZxGwyV4GB_oV2OqYw-zyhE4oy6B-mnHIarw132wsvGDjxGTCi1D236NwZ9ancj1GMy0JQp8uGCAzGgWqC6tEhBFcVQYNO0MaNsLm_qpJTzvGhSP9DYC_md_IbXKsQuhpvdcPFW6Dw",
+               "width" : 1894
+            }
+         ],
+         "place_id" : "ChIJD8KFjiyDToYRtXemtGqLsv4",
+         "plus_code" : {
+            "compound_code" : "R5CJ+JW Dallas, TX, USA",
+            "global_code" : "8645R5CJ+JW"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJD8KFjiyDToYRtXemtGqLsv4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "car_dealer",
+            "car_repair",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 2348,
+         "vicinity" : "4801 Lemmon Avenue, Dallas"
+      }
+   ],
+   "status" : "OK"
+}

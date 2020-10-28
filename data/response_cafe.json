@@ -1,0 +1,1050 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CqQCGQEAALAnN-oVr_aBudhaDHaJBbMMgsrWEun6lyasuuYWdJe2o7s2H3VPcQ6F3TLczlynI-njobJhguT6EbxQlLY1XBBUzt5_JUv8PgYVhJO_5EJ89D74rbJ78VorKMI-xvxw9Aoa7yuv1i7yml_ITsLVMOyBN6pYoQ_2_9lAyl4P3uul3dbV5brRS1VVglFluhDBWM1LhlkteNY_ktrduu_IJA7v_HyfDOeIQk-ACkppG1RHQ_rZk9I14fvIcpUmonLrDKyRbP2KF2MlNiG79OR1MRyOfDMGsqKng-TadIr0vlGc3kWXMidUAnk0kzKZfWTYsoVPxw71Y57XFjbVBCjSPa4SBJ6Az8l9GhFgvZhjUlGWxXpmUCB8ARrL3c-3sisPLRIQ-5HHRuAuZdrP_sDA00OWyBoUUokVxbh02EskarlETvmWXSJa-dg",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8380775,
+               "lng" : -96.77500909999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8396422802915,
+                  "lng" : -96.77411261970849
+               },
+               "southwest" : {
+                  "lat" : 32.8369443197085,
+                  "lng" : -96.77681058029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+         "name" : "Angelika Film Center & Café - Dallas",
+         "photos" : [
+            {
+               "height" : 1174,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101519100009155750987\"\u003eAngelika Film Center &amp; Café - Dallas\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGw2fqS_GFC2G_YscjtSBhc0SEgwkvI_pZwouf8ZCMyNjGVGR0La6bNJ6PgL1RRT2cPWn3eD8I-Wi4FB56fswygl6BTYoaKXZHDLl3uU07hN1wpOq3WYEaUPt2DcRFgSnEhBGwnK6dqg4kJayHukal8GrGhScPxqBUMmb8cIlEUnE9PHLtIjIQQ",
+               "width" : 1495
+            }
+         ],
+         "place_id" : "ChIJD4jRFxKfToYRDk--qaVrjXQ",
+         "plus_code" : {
+            "compound_code" : "R6QF+6X Dallas, TX, USA",
+            "global_code" : "8645R6QF+6X"
+         },
+         "price_level" : 1,
+         "rating" : 4.5,
+         "reference" : "ChIJD4jRFxKfToYRDk--qaVrjXQ",
+         "scope" : "GOOGLE",
+         "types" : [ "movie_theater", "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1389,
+         "vicinity" : "Angelika Dallas, 5321 East Mockingbird Lane Suite 230, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.0767166,
+               "lng" : -96.8216647
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.0780453802915,
+                  "lng" : -96.82029376970848
+               },
+               "southwest" : {
+                  "lat" : 33.07534741970851,
+                  "lng" : -96.82299173029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+         "name" : "Angelika Film Center & Café - Plano",
+         "photos" : [
+            {
+               "height" : 782,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102007996731357409397\"\u003eAngelika Film Center &amp; Café - Plano\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnx_IFTINpiro3o0InaWnoGFhmumyQyleIFtdNxYH89Wo4vT46MbK7PiHwNdRaNf5qi9NjOfeNNu8yJtlnwqCqOuw-SfPbq2l1q25bKkxOr__LOgb4kYLmRzZjed_T64_EhCOb3Oie36_0iic_B8Ma8qFGhSwEBMeDwiIM0qm2luY3iWMW2Q1Pg",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJu7zvs7M8TIYRQ3JxYQxT_Ks",
+         "plus_code" : {
+            "compound_code" : "35GH+M8 Plano, TX, USA",
+            "global_code" : "865535GH+M8"
+         },
+         "price_level" : 1,
+         "rating" : 4.5,
+         "reference" : "ChIJu7zvs7M8TIYRQ3JxYQxT_Ks",
+         "scope" : "GOOGLE",
+         "types" : [ "movie_theater", "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 538,
+         "vicinity" : "7205 Bishop Road e6, Plano"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.80451769999999,
+               "lng" : -96.7994901
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8058606802915,
+                  "lng" : -96.79819776970848
+               },
+               "southwest" : {
+                  "lat" : 32.8031627197085,
+                  "lng" : -96.8008957302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Bread Winners Café & Bakery",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3168,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101621777609328551901\"\u003eBread Winners Café &amp; Bakery\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAW8lUrw3PbcKTv6iZoYAuctlKA06r5DfEmJQe5qehuckfBNmuCjZWeHRsExCxHNK_CDCue1Lt-YZm1SKbeD2I1s8RrFvD4wRoUJYlv_Buqz-cm0QYlqwS0ZC1LZnyLl9-EhCZatvDzriJuoh9d5BZroWkGhR4U31E0Fmo8hrwZf6F1Vi5gAFIHw",
+               "width" : 4752
+            }
+         ],
+         "place_id" : "ChIJFWBqMtOeToYRvS9FXF0BOCw",
+         "plus_code" : {
+            "compound_code" : "R632+R6 Dallas, TX, USA",
+            "global_code" : "8645R632+R6"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJFWBqMtOeToYRvS9FXF0BOCw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "restaurant",
+            "bakery",
+            "cafe",
+            "bar",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1937,
+         "vicinity" : "3301 McKinney Avenue, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9549282,
+               "lng" : -96.81588479999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9561786302915,
+                  "lng" : -96.81472831970849
+               },
+               "southwest" : {
+                  "lat" : 32.9534806697085,
+                  "lng" : -96.8174262802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Barnes & Noble",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112704751537397969148\"\u003eShea H\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAoysRXStctu0SIGpFvyPS8nV9c8Wx3CZcDO0KWS26XYp5OaN59UA-uywbfKSu7xjgVYLGRMTu2HDMQvisXUp8l83XmNMxG7fJzDfAcg4yaHZg7f99aZEeqdUSzvmK5ejbEhB2OSx6_jiiuUQyfMtw0c2gGhQY2NX_0e760S7wfpxE7AIiH6w0jQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJzU63xT0hTIYRYE9IZARVLEI",
+         "plus_code" : {
+            "compound_code" : "X53M+XJ Dallas, TX, USA",
+            "global_code" : "8645X53M+XJ"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJzU63xT0hTIYRYE9IZARVLEI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "book_store",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 992,
+         "vicinity" : "5301 Belt Line Road #118, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.0999183,
+               "lng" : -96.81051149999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.10124803029149,
+                  "lng" : -96.80914631970847
+               },
+               "southwest" : {
+                  "lat" : 33.09855006970849,
+                  "lng" : -96.8118442802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Auntie Anne's",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102695800872338245901\"\u003eAustin Johnson\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAc5_pjI7_LKyPDK-1ufOmO7Igv1BP4937_dc9U7wZyTGjXgDpjs3_PSd0KILn5XCWjbnU0TXwxEIiT7c32-NQzD1VJYVFGSJUkY2C1DlUQmi2_nxcD6CQX0Q4sJKkvp0OEhAJW7EYnDdCX5PFpD4MCBreGhSifJeAzX1PidI-05LvJfWV3UTYIQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJO3sSB-s8TIYRW08xBmk1NqU",
+         "plus_code" : {
+            "compound_code" : "35XQ+XQ Frisco, TX, USA",
+            "global_code" : "865535XQ+XQ"
+         },
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "ChIJO3sSB-s8TIYRW08xBmk1NqU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 120,
+         "vicinity" : "2601 Preston Road, Frisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.844404,
+               "lng" : -96.7734349
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8456698302915,
+                  "lng" : -96.7721493197085
+               },
+               "southwest" : {
+                  "lat" : 32.8429718697085,
+                  "lng" : -96.77484728029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Cafe Brazil",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 453,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108506739545657607667\"\u003eCafe Brazil\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZd4DpQc5Z7BNT8YngzNOq4zBhWaoX5lVB8ZjODMNOooump9Q6_YMf4V_GmQQDd0whlO0V3h4qr2JEHRREzF_4iG3lNbYoiyWcA1LSgrWRGyt1SeNs2TrdCdSSFxFbG6MEhAE6v3dQSmoy-LWSQrXsiLNGhS6vKsdF7lejLxURmyxOEDA9BmTlw",
+               "width" : 604
+            }
+         ],
+         "place_id" : "ChIJTc2DLwyfToYREwOt941MnaQ",
+         "plus_code" : {
+            "compound_code" : "R6VG+QJ Dallas, TX, USA",
+            "global_code" : "8645R6VG+QJ"
+         },
+         "price_level" : 1,
+         "rating" : 4.4,
+         "reference" : "ChIJTc2DLwyfToYREwOt941MnaQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1936,
+         "vicinity" : "6420 North Central Expressway, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8693555,
+               "lng" : -96.7743624
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8710003802915,
+                  "lng" : -96.7728432697085
+               },
+               "southwest" : {
+                  "lat" : 32.86830241970851,
+                  "lng" : -96.77554123029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Auntie Anne's",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102070377626401459301\"\u003eMike Serrano\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAADXa37y591IBRj5D4BnGzJLAbocNLGVZpsYYUpKhZ-R2mH6QzIEFlqmdCNYXs7veeA0NBY5Uc0DgL8NcSa3uD2_PQhaZYnRtCUlXyYZr19qYKOZyRpX-BxV-Zzi-C5-9HEhCRulWpa5VQoiejbzwCP4-mGhTlNkijpLdrLyanY2sv6mOhc9nDnQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ4fJpipWfToYRvbABgPfzZCE",
+         "plus_code" : {
+            "compound_code" : "V69G+P7 Dallas, TX, USA",
+            "global_code" : "8645V69G+P7"
+         },
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "ChIJ4fJpipWfToYRvbABgPfzZCE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 31,
+         "vicinity" : "8687 North Central Expressway, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.864467,
+               "lng" : -96.83620100000002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8657485802915,
+                  "lng" : -96.83489506970849
+               },
+               "southwest" : {
+                  "lat" : 32.8630506197085,
+                  "lng" : -96.8375930302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "la Madeleine French Bakery & Cafe Midway",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3036,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118345372770342601555\"\u003eJake Vinson\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAe8TTF4lotBxvqVsb_iGmU4c5fAypy19OVNvHjBYsZOklIfliAJnvBRbr8bHFBbpQdaGVJCo6xt4-E071vwtmxIKAky3eH83WIKJruWaviC7e3Yx8qGLsH4ZvicVoaBSmEhCn-vEO4ftvEr8uiY57_bQiGhRHJ5FbFBHXoy4eZZQGPAbwLmqbZQ",
+               "width" : 4048
+            }
+         ],
+         "place_id" : "ChIJodnwRt-dToYRM83ORrly5pE",
+         "plus_code" : {
+            "compound_code" : "V577+QG Dallas, TX, USA",
+            "global_code" : "8645V577+QG"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJodnwRt-dToYRM83ORrly5pE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "restaurant",
+            "bakery",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 282,
+         "vicinity" : "4343 West Northwest Highway Suite 365, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.0063262,
+               "lng" : -96.9789543
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.00766868029149,
+                  "lng" : -96.97745961970848
+               },
+               "southwest" : {
+                  "lat" : 33.0049707197085,
+                  "lng" : -96.9801575802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Barnes & Noble",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111381848824417101796\"\u003epriyanka pria\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAEPETA1TbfFMUfLzwErFviDGfU05_f6r2HhUDCaSUmRauC_1VYoUqKSWTZ24zFBm1jZpTIW59-Kg-kiYdQtMR4fBi47ArDH0yA59TkfPmWt1jYqpWU75I-BqK4B6nb2fSEhDqGpXDiUEOj4MaaeEv71JXGhQxt6ZTqZxjcCD_KCW6wybRVIyMjA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ7WtDVOUuTIYRZ9zUXRExr-k",
+         "plus_code" : {
+            "compound_code" : "224C+GC Lewisville, TX, USA",
+            "global_code" : "8655224C+GC"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJ7WtDVOUuTIYRZ9zUXRExr-k",
+         "scope" : "GOOGLE",
+         "types" : [
+            "book_store",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 768,
+         "vicinity" : "Vista Ridge Village, 2325 South Stemmons Freeway #401, Lewisville"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9334484,
+               "lng" : -96.81694189999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9347999802915,
+                  "lng" : -96.8156754197085
+               },
+               "southwest" : {
+                  "lat" : 32.9321020197085,
+                  "lng" : -96.8183733802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "name" : "Fat Straws Bubble Tea",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106592234139760968361\"\u003eMedic 0101\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2EC86yUd0rTn7OqmJFCRYrur7wYkToaI-OKEwVxWZJozFpIp9Dl-TTOV24FVkjg3FsERuCR3ko_SeInARcSziBxqh_kSI5mTOMM79Iam9pZqFKpETmwJG4j1-Yy0zLWYEhB5IE_ee-JO30W9-AFTdAS_GhSjXK-EAMK7B_018qoYxJ5SdhnbKg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJyXPn7N4gTIYRdyhSQJcFA9w",
+         "plus_code" : {
+            "compound_code" : "W5MM+96 Dallas, TX, USA",
+            "global_code" : "8645W5MM+96"
+         },
+         "price_level" : 1,
+         "rating" : 4.5,
+         "reference" : "ChIJyXPn7N4gTIYRdyhSQJcFA9w",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 316,
+         "vicinity" : "5301 Alpha Road #38, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.837095,
+               "lng" : -96.78128799999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8383887802915,
+                  "lng" : -96.77995626970848
+               },
+               "southwest" : {
+                  "lat" : 32.8356908197085,
+                  "lng" : -96.7826542302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "la Madeleine French Bakery & Cafe Mockingbird",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113505126375901634891\"\u003eMuhannad K\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAMAxRalsKzzcE1O2xp2nLl1M9vqujP6DpJa66HlSMKbstAuDzPXk8DYuZ8tVjDcEj8nvgwVkEzP2NgUefV4HB748oRzAhtX32DteUDkuX7vOIDYdiwgWARFxU8mvHJ-GGEhAPBNzr0ru9bgSUXy3uENe4GhS4T5pEfkHIpOPvUL28VZMadc-X8A",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ12PBdxCfToYRTHXqhgQC3TA",
+         "plus_code" : {
+            "compound_code" : "R6P9+RF Dallas, TX, USA",
+            "global_code" : "8645R6P9+RF"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJ12PBdxCfToYRTHXqhgQC3TA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "restaurant",
+            "bakery",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 681,
+         "vicinity" : "3072 Mockingbird Lane, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.0986086,
+               "lng" : -96.81121999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.09993188029151,
+                  "lng" : -96.8096680197085
+               },
+               "southwest" : {
+                  "lat" : 33.09723391970851,
+                  "lng" : -96.8123659802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Barnes & Noble",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1879,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103727713455706139459\"\u003eAdal R S\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAF0O6W33K_6-5IJph_YRANycFZEK54-P_NpnFqvgWWv9wFWP6vAuW4cNkVIa9MxzqfNx3cFxCaDXbKeOsfb9d5deIvrDPaLHseBRH1B3oWsc7iXVHXubzggdroIRSxM5rEhBkznqZKVWL15TNShXSxmcrGhSRlj9mrsiQ6J4OXB-njEvAuekJdg",
+               "width" : 3990
+            }
+         ],
+         "place_id" : "ChIJO3sSB-s8TIYRvo_mZkP0_Fs",
+         "plus_code" : {
+            "compound_code" : "35XQ+CG Frisco, TX, USA",
+            "global_code" : "865535XQ+CG"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJO3sSB-s8TIYRvo_mZkP0_Fs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "book_store",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1991,
+         "vicinity" : "2601 Preston Road #1204, Frisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.932189,
+               "lng" : -96.8040433
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9335872802915,
+                  "lng" : -96.80251456970849
+               },
+               "southwest" : {
+                  "lat" : 32.9308893197085,
+                  "lng" : -96.8052125302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "name" : "Dunkin'",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109118482624451386574\"\u003eJoe Hainey\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAWPMCYK9dgeVXx9qzjqXjG3WM3aOBVjTaKs_vn6yf8vSORgfc3tLL-gPR5SenSemECyTqpXu3vBvjz6MR3r6h9QRTTmSAF2UEHXXwxRlYDSfrgAMkHj0bL11tJq7aqPDNEhAivw9qVv_tzxD7p2gB9zuZGhQhGl-InnUig4MudXcivyAeIJmaMA",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJkWCrueQgTIYRamDQw3oojFI",
+         "plus_code" : {
+            "compound_code" : "W5JW+V9 Dallas, TX, USA",
+            "global_code" : "8645W5JW+V9"
+         },
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "ChIJkWCrueQgTIYRamDQw3oojFI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "meal_takeaway",
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 634,
+         "vicinity" : "13535 Preston Road, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8496029,
+               "lng" : -96.7694748
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8509515802915,
+                  "lng" : -96.76820021970849
+               },
+               "southwest" : {
+                  "lat" : 32.8482536197085,
+                  "lng" : -96.7708981802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Krispy Kreme",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113945611498346069533\"\u003eMickey Zoto\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAf4R9GWBwUttJAZQBimfTO1RVut-mYvz-8VSqNGb-A48lHTLDVZMQzUTHpHCRyg2z4RYJjrlG7hvbcjkUR6a9ZrD3cajbesCIsL6ZKJOlzMLQzsscx95bX8RxNApyUrMiEhAwR1-NelsOhKXExIQw3CMvGhTA_lEgdSm3zAO8ghjwFlAFODQk1w",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJvxMoOXWfToYRT47keq5FcKI",
+         "plus_code" : {
+            "compound_code" : "R6XJ+R6 Dallas, TX, USA",
+            "global_code" : "8645R6XJ+R6"
+         },
+         "price_level" : 1,
+         "rating" : 4.1,
+         "reference" : "ChIJvxMoOXWfToYRT47keq5FcKI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 806,
+         "vicinity" : "5118 Greenville Avenue, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9534788,
+               "lng" : -96.61324669999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.95485043029149,
+                  "lng" : -96.61189711970849
+               },
+               "southwest" : {
+                  "lat" : 32.95215246970849,
+                  "lng" : -96.61459508029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Barnes & Noble",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109045573479295920273\"\u003eNam Nguyen\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkQXyiWzhZVi6gIB1-ehEI9YQSh_AzfPAagdLKV8uCBUnviF40u3u9fdxqHLmahPcBHE2Vtmq8EEYJFvHOQHaYAOPXpWSOB9O0-BTkW1xiWde-dF3Ovue-kU2y61yoH6mEhD9kZnYckU03RSDk3XhAJXMGhRlePw3wDpjneIfwUlJ2JADwjGOHA",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJg5su6_wcTIYRTDltM7B8k7s",
+         "plus_code" : {
+            "compound_code" : "X93P+9P Garland, TX, USA",
+            "global_code" : "8645X93P+9P"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJg5su6_wcTIYRTDltM7B8k7s",
+         "scope" : "GOOGLE",
+         "types" : [
+            "book_store",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1003,
+         "vicinity" : "Firewheel Towne Center 190 Cedar Sage Drive Unit #BB01, Garland"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.813179,
+               "lng" : -96.806736
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8144824302915,
+                  "lng" : -96.80546361970849
+               },
+               "southwest" : {
+                  "lat" : 32.8117844697085,
+                  "lng" : -96.8081615802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "la Madeleine French Bakery & Cafe Lemmon",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1356,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100007510340354226097\"\u003ela Madeleine French Bakery &amp; Cafe Lemmon\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAW-wxEQzjyMjybmf_QwaWDb7uQ7EsuzddM3BjvhZ9OB-fZIzyNmc7Mhh78iQXixM5MVU_xIlFO-T9_8plcENPDQULQQVm2H5menNJ5D8uPgTUs5OxpU5kqCE4khc_Zj4SEhCTeLAZqLGMxlpVIsIe_kwEGhT56Js0Sx8gYyBmOfx0fAqmz7mJig",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ7YTuFs-eToYRWkEVfp3nzIY",
+         "plus_code" : {
+            "compound_code" : "R57V+78 Dallas, TX, USA",
+            "global_code" : "8645R57V+78"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJ7YTuFs-eToYRWkEVfp3nzIY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "restaurant",
+            "bakery",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 711,
+         "vicinity" : "3906 Lemmon Avenue Suite 110, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.808282,
+               "lng" : -96.79818899999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8097017802915,
+                  "lng" : -96.79685706970849
+               },
+               "southwest" : {
+                  "lat" : 32.8070038197085,
+                  "lng" : -96.7995550302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100588007404387186294\"\u003eSherif Essawi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5jF6jrJFAD14RDJvHntv6lpnmFguS0DhHY0WyN2EhrqWIefpEbPux-2ZlmbD5E5wG1K23x5tvE39_N8Xh68SWQgH_XUk4EO5Z2j1s8LaOuNJwU4_dfK6_eTXayM7ZaMLEhAm7RJ84s4e1mNYWNxTrf3lGhRs0MKCHJYJD3TTpsuGrScCJWTI-A",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJh34qjNOeToYRAlFx2zlZ-34",
+         "plus_code" : {
+            "compound_code" : "R652+8P Dallas, TX, USA",
+            "global_code" : "8645R652+8P"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJh34qjNOeToYRAlFx2zlZ-34",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 448,
+         "vicinity" : "3699 McKinney Avenue, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.892079,
+               "lng" : -96.96038899999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.89346168029149,
+                  "lng" : -96.95911721970849
+               },
+               "southwest" : {
+                  "lat" : 32.8907637197085,
+                  "lng" : -96.9618151802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118363974303955232335\"\u003eRahul Gupta\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALe_PfyiZQ2JjNC8N1wYtP1jvtpwVyELjW5ABgtB1rYy_1pQbFHk59ByF3hJqQFuRM2mkjOL700OWx2WM-0IQC7SnppUGpwCKvlys6QF0i5a1LnPFMd3R73_fEZCpPRcMEhBSkjmu3oQtbvCGejIQ24JNGhTGBjKcl4zByW1-VYeLaWui9iG3tQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ6zjOaCwoTIYR_MAAh2Ichms",
+         "plus_code" : {
+            "compound_code" : "V2RQ+RR Irving, TX, USA",
+            "global_code" : "8645V2RQ+RR"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ6zjOaCwoTIYR_MAAh2Ichms",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1072,
+         "vicinity" : "5904 North MacArthur Boulevard #160, Irving"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7849871,
+               "lng" : -96.7830264
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7862999802915,
+                  "lng" : -96.78144131970849
+               },
+               "southwest" : {
+                  "lat" : 32.7836020197085,
+                  "lng" : -96.7841392802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Cafe Brazil",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105171881410136947437\"\u003eSteven Danby\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAuwBoSPoxHdAdkIWEk3v-RFrrXePfvIjff_RMIq8d8r5PJbaiYwtGSV1k6nvUJ3EjcjZRkAnt8XlKGGjsxXZ8cgWuVEusnTlA-LXWcW8j9su_jbmZuXVItCPBr4O_rIeWEhB9Ddo4fPXDX9OgHFhAiPGCGhQlD5vFLaYBvNtOa7N3_IPDhWzS1w",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJQVGbF92YToYRZWYYSOdTe1M",
+         "plus_code" : {
+            "compound_code" : "Q6M8+XQ Dallas, TX, USA",
+            "global_code" : "8645Q6M8+XQ"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJQVGbF92YToYRZWYYSOdTe1M",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1551,
+         "vicinity" : "2815 Elm Street, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9772353,
+               "lng" : -96.7416204
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.97858583029149,
+                  "lng" : -96.74035146970849
+               },
+               "southwest" : {
+                  "lat" : 32.9758878697085,
+                  "lng" : -96.74304943029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Chocolate Angel Cafe & Tea Room",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116406757293444861399\"\u003eJacque Holt\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAATsy63psZdTtNoJU-bnmMvl8U3g_7IyKTEECEHz2OA4fLQDpxF4BFCmJi5TGbN4GqLC4H0rPU0fi6qEt-7D2UKCTor_lnYUC7S-dKVkmcOx8EUXpm8QisoA4PKzjPYLZqEhAE5ZAdVUAx1EOw_1Kk1wTWGhTlF2D7BAb8zEU1yH6YnEiFbwJuGw",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJyRFcYlAfTIYRMMP4n3ED68Q",
+         "plus_code" : {
+            "compound_code" : "X7G5+V9 Richardson, TX, USA",
+            "global_code" : "8645X7G5+V9"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJyRFcYlAfTIYRMMP4n3ED68Q",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 162,
+         "vicinity" : "635 West Campbell Road, Richardson"
+      }
+   ],
+   "status" : "OK"
+}

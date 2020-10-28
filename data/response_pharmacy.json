@@ -1,0 +1,872 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CqQCHQEAALPi2_0WGkScCarGqk8U05je3ylPfNaD8Gfdk26B8pJRt2LYnO8rUfBnWKFYduIEiEOnqd0btvbU-rTo0DMzNOvBYs7qZnJ0CawkXwTlAbrWrOMKYTPwkGiK_kIjp1rwCvkea0AySa8___taj8tfmET8a5k0wyOY_Wi9E5ggmK6iJvnq6WDjPcw0rlokQlqa6UNUkun1POE62Jw5E9b-WvajN7mXg5epYrSYVr-ncrRXhK-8DD7mt03rPhysc4eO3MDHUc2x5qEx1p2CPxb6MrXVxBNTihwbOpWt0i1oV4d220vWo-dpCoKYsr_63vuimM0XSmx_NjUh40ZWY6i4ImIO1wJvXUaxemrW14niDn356HRNp691HirIRaEF11BcOBIQBqDJRetHlC-7I5RiWaBTShoUncDtyZ_ksWHbxg_It1a11k6V7PU",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.939908,
+               "lng" : -96.6967296
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9412554802915,
+                  "lng" : -96.69502251970849
+               },
+               "southwest" : {
+                  "lat" : 32.9385575197085,
+                  "lng" : -96.69772048029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy_cross-71.png",
+         "name" : "CVS Pharmacy",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2555,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109051028098597253996\"\u003eDaniel Shanks\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3lF_aOPCMeUNz38Vsggdf5geUg5zjLukvxpCvP3vjrC2BnZZ6MugrZmjgVj3ElktjbMtO_0OhtPdHZug82vxume4CVIoArSB43tozhgUG-5bb5dR-YPrQs6-Wh9hVjYEEhAAa2yum0FFobN-5ECQUkLfGhQ-V4BuwjXFldwr-9bW1KGIC9kH1w",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJR8WESFceTIYRGkvBFseaLOg",
+         "plus_code" : {
+            "compound_code" : "W8Q3+X8 Richardson, TX, USA",
+            "global_code" : "8645W8Q3+X8"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJR8WESFceTIYRGkvBFseaLOg",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 15,
+         "vicinity" : "601 South Plano Road, Richardson"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8038055,
+               "lng" : -96.7915373
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8054084802915,
+                  "lng" : -96.7900860197085
+               },
+               "southwest" : {
+                  "lat" : 32.8027105197085,
+                  "lng" : -96.7927839802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy_cross-71.png",
+         "name" : "CVS Pharmacy",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3022,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102793147531777869985\"\u003eD Q\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxSsVo3iAoqr9K14WTrfgfzYbAC8X7Bd5otBNlY4Dh3v7br2tfVdIeW0mmBGvZa4O5g8gCpX_BCVHyxAQu-dekyafNrk-G_4dc1LDND9img72-ORZPkXF6v3GCt7A_uStEhA515YAGLThWKz7ycOpfcqPGhT9Ln158pdny6kirqCF-bYTMkvOAg",
+               "width" : 4034
+            }
+         ],
+         "place_id" : "ChIJ794dLdWYToYRPMs-amNxXPA",
+         "plus_code" : {
+            "compound_code" : "R635+G9 Dallas, TX, USA",
+            "global_code" : "8645R635+G9"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ794dLdWYToYRPMs-amNxXPA",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 17,
+         "vicinity" : "2417 North Haskell Avenue, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9657753,
+               "lng" : -96.64625719999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.96675398029149,
+                  "lng" : -96.64520016970849
+               },
+               "southwest" : {
+                  "lat" : 32.96405601970849,
+                  "lng" : -96.64789813029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy_cross-71.png",
+         "name" : "CVS Pharmacy",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 667,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112542803450945373752\"\u003eCVS Pharmacy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwtSIofYbRTFqGWwNI4iSIiqRDcfbiqykb8ljW5dxxHTnP4Os69-GQvkCTdoGpr5wus08HvhwMiadm65xtiaDhLEb_8gmX3PvP8lQMIEXafeFdvWDXo2mmX3MwNE9mvLLEhDSzXUqkhZ5OJU-5N9YrXmSGhR9J4Q2Y3QIu19QPk7ReyGOL61Acw",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJ59_kzTgcTIYREBBKRh_c7KU",
+         "plus_code" : {
+            "compound_code" : "X983+8F Garland, TX, USA",
+            "global_code" : "8645X983+8F"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ59_kzTgcTIYREBBKRh_c7KU",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 12,
+         "vicinity" : "5301 North Garland Avenue, Garland"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.0442071,
+               "lng" : -96.83199999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.0458007302915,
+                  "lng" : -96.83065326970849
+               },
+               "southwest" : {
+                  "lat" : 33.0431027697085,
+                  "lng" : -96.8333512302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy_cross-71.png",
+         "name" : "QVL Pharmacy",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJ0b-bbmEjTIYRhqVt1WoM5AU",
+         "plus_code" : {
+            "compound_code" : "25V9+M6 Plano, TX, USA",
+            "global_code" : "865525V9+M6"
+         },
+         "reference" : "ChIJ0b-bbmEjTIYRhqVt1WoM5AU",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "vicinity" : "6020 West Parker Road #270, Plano"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8005714,
+               "lng" : -96.7941659
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8021554302915,
+                  "lng" : -96.79272931970849
+               },
+               "southwest" : {
+                  "lat" : 32.7994574697085,
+                  "lng" : -96.79542728029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy_cross-71.png",
+         "name" : "Walmart Pharmacy",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106202013388535087471\"\u003eWalmart Pharmacy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAmHNRAw5a0uVLs34y2AOLJ60UEMgsbwmIPSrRaQtk0jL1p0c3-OKnTl1aCemwya33ORoAbS6oiqMSwmeUU9dhr-nqGJ6tcVm24AWKaQGpbx-ZPjzoVXUNjk6Am1L41jJPEhBvB1oHNNqgQ6FE99TvzMxFGhQfykpyocVm6QGD6J04RX0TQLOD0A",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJcfPyRSqZToYRo_weIdhj6p4",
+         "plus_code" : {
+            "compound_code" : "R624+68 Dallas, TX, USA",
+            "global_code" : "8645R624+68"
+         },
+         "price_level" : 1,
+         "rating" : 3.1,
+         "reference" : "ChIJcfPyRSqZToYRo_weIdhj6p4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "pharmacy",
+            "department_store",
+            "health",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 36,
+         "vicinity" : "2305 North Central Expressway, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.85701989999999,
+               "lng" : -96.7522027
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.85836888029149,
+                  "lng" : -96.7508537197085
+               },
+               "southwest" : {
+                  "lat" : 32.85567091970849,
+                  "lng" : -96.75355168029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy_cross-71.png",
+         "name" : "CVS Pharmacy",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111720753763073750468\"\u003eC S\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXaPimUY8c616IEkOfqxg_eOxZToAf1zJV6E3NR4HZFVaY3ri-Ub5ZswpF0H8vifgtGsEmUlBNX5JbAdsyGYGey0zyFOQ5o1J9mjwemnDFtzkYfL_IASK5K9Ff59JYslgEhCtR4stU1GwDr06le8udHfpGhRgRmn5Of0SHzKBr2SrvXHhOfh0Vw",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJraBiJYGfToYRm4nCUj30Qec",
+         "plus_code" : {
+            "compound_code" : "V64X+R4 Dallas, TX, USA",
+            "global_code" : "8645V64X+R4"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJraBiJYGfToYRm4nCUj30Qec",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "6464 E Northwest Highway #212, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9506871,
+               "lng" : -96.8543531
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9522661302915,
+                  "lng" : -96.8529176697085
+               },
+               "southwest" : {
+                  "lat" : 32.94956816970851,
+                  "lng" : -96.85561563029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy_cross-71.png",
+         "name" : "CVS Pharmacy",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104408920929684304929\"\u003eKobi Adato\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAR1yeV2CYTRwnJe-2SNoA2ru9-FBkSPdHxz1sJn-3t_x6psJuUIAXrCICd1Mau7UW-375N8v--hjrLhIcDhKOc8C4jh1CsjLsZCy4WYV_r9TDRvZO5EG9SUwr8PKGMTMcEhDPKOtTHrp-ppf-gzKo2x74GhSUSyxxfBQngZsX3hrIDcUW9hgzBA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ_2SzTsImTIYRKopABf6UU64",
+         "plus_code" : {
+            "compound_code" : "X42W+77 Addison, TX, USA",
+            "global_code" : "8645X42W+77"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJ_2SzTsImTIYRKopABf6UU64",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 19,
+         "vicinity" : "3730 Belt Line Road, Addison"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.998537,
+               "lng" : -96.8460515
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9996821802915,
+                  "lng" : -96.84476271970848
+               },
+               "southwest" : {
+                  "lat" : 32.9969842197085,
+                  "lng" : -96.8474606802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy_cross-71.png",
+         "name" : "Kroger Pharmacy",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 503,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115245671310003834182\"\u003eKroger Pharmacy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAI9zCZ4q-1ffhFFMQLGwgdiCNkM79FEyMvC2Bd49SUxPASVd3HidzVg_ptwsTTfqdgpgNW_iCtyv8ObibLJ0nrFoLKk5pHqNuR1BNOfZljj7kNz5hLfCNDekN2HnNp4MKEhB2L2RIy_XRRtQqnXQAEnjZGhQutwPJc1V3e0Kqpk7UZZwsqKd7tQ",
+               "width" : 796
+            }
+         ],
+         "place_id" : "ChIJn-Q0_xEkTIYR0_6QsXMQL6I",
+         "plus_code" : {
+            "compound_code" : "X5X3+CH Dallas, TX, USA",
+            "global_code" : "8645X5X3+CH"
+         },
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "ChIJn-Q0_xEkTIYR0_6QsXMQL6I",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 21,
+         "vicinity" : "3939 Frankford Road, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.95212969999999,
+               "lng" : -96.8057386
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9535858802915,
+                  "lng" : -96.8041364697085
+               },
+               "southwest" : {
+                  "lat" : 32.9508879197085,
+                  "lng" : -96.8068344302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy_cross-71.png",
+         "name" : "Tom Thumb Pharmacy",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118345372770342601555\"\u003eJake Vinson\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5ysX1A_ulquPyewyEty84gmWOvCEYmkbHZh5k_kTvAmsSuLK-jVZ_bTvgc7GXqrOIvzBjVaIRhtyywwfXHxXcs95OMMqIGmY3Y0XhPyd9ltufFqUYz51aH3MDFWJFPRlEhAXdisF-f7hZ3UAnGnZbPj1GhRu98gfmilzYS6RBBgiEQXhQzmoyg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJjSyeUxAhTIYRO5Bg937cy6c",
+         "plus_code" : {
+            "compound_code" : "X52V+VP Dallas, TX, USA",
+            "global_code" : "8645X52V+VP"
+         },
+         "price_level" : 2,
+         "rating" : 2.8,
+         "reference" : "ChIJjSyeUxAhTIYRO5Bg937cy6c",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 20,
+         "vicinity" : "14999 Preston Road, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.02986140000001,
+               "lng" : -96.77084730000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.03112883029151,
+                  "lng" : -96.76959781970851
+               },
+               "southwest" : {
+                  "lat" : 33.02843086970851,
+                  "lng" : -96.77229578029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy_cross-71.png",
+         "name" : "Plano Care Pharmacy",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 750,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110178330454826060400\"\u003ePlano Care Pharmacy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAsgyawi0xZTm5-3BwY3i2BbMRJcXY6LFVrICezZMPoFLMmvT5Hjgyi-qPfSqx9RJPkwFtKUy8HnavDyOfVeNqC02M8QG9UKQNpVfu_3IYQZXHrKmUnwmuRN1j33TGpgWsEhBpP1kdeI-JM0kRJ7Ewbsq1GhQyb-4KSF_GJT01qc636SzeZPXJOA",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJK8o60F8iTIYRqgEcj4QeqMc",
+         "plus_code" : {
+            "compound_code" : "26HH+WM Plano, TX, USA",
+            "global_code" : "865526HH+WM"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJK8o60F8iTIYRqgEcj4QeqMc",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 50,
+         "vicinity" : "2001 Coit Road Ste 310, Plano"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9087226,
+               "lng" : -96.55872599999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.91006503029149,
+                  "lng" : -96.55769136970849
+               },
+               "southwest" : {
+                  "lat" : 32.90736706970849,
+                  "lng" : -96.5603893302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy_cross-71.png",
+         "name" : "CVS Pharmacy",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 667,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107537471667828830709\"\u003eCVS Pharmacy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAA6PRAbp97dzxeHFNOVqaCms43h13oEoClSkNSj5CawOAIcAAwVLcG3CR_P7eHS9UEvjP6ZPbxQ1JFePLqIGwU9GSir0e0BOxObt4KwbWihkcaQ_keuBdnKjjSKT0ufmB5EhBUkGn4Jt0LpQ70Vq9ftABnGhRTKsamtXaMZWXDSaKtKLu7LuLdZA",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJ4zztO6ACTIYRgPCG7_FTMZA",
+         "plus_code" : {
+            "compound_code" : "WC5R+FG Rowlett, TX, USA",
+            "global_code" : "8645WC5R+FG"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ4zztO6ACTIYRgPCG7_FTMZA",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 11,
+         "vicinity" : "4701 Lakeview Parkway, Rowlett"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7879281,
+               "lng" : -96.7787019
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7894720802915,
+                  "lng" : -96.7775117697085
+               },
+               "southwest" : {
+                  "lat" : 32.7867741197085,
+                  "lng" : -96.7802097302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy_cross-71.png",
+         "name" : "Texas Oncology Pharmacy Services",
+         "place_id" : "ChIJixLfecOYToYRzjJQamu9ySk",
+         "plus_code" : {
+            "compound_code" : "Q6QC+5G Dallas, TX, USA",
+            "global_code" : "8645Q6QC+5G"
+         },
+         "rating" : 3,
+         "reference" : "ChIJixLfecOYToYRzjJQamu9ySk",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "3410 Worth Street #100, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.0122647,
+               "lng" : -96.97129049999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.01346443029149,
+                  "lng" : -96.96978271970849
+               },
+               "southwest" : {
+                  "lat" : 33.0107664697085,
+                  "lng" : -96.9724806802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy_cross-71.png",
+         "name" : "CVS Pharmacy",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113552020087875483979\"\u003eMcDaniel Hamilton\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAMqODsathGs-g2X9GTU73npFkQjY1ryye5Bl4H95b4zsgv8IkDM6nevDNMKOqzJA7CMwiFs0IdO2qNWUd-Nn4FuVprNmphvzNU-YRjXJiPPjQmjaHUaAQg__ODju8sJDeEhAMgTFCCclHlThN8oeOHiIfGhRSNi89U9p7WwPj2Oqd5ovdmES9ug",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJIU6JvfsuTIYR7pKwBJqrVLA",
+         "plus_code" : {
+            "compound_code" : "226H+WF Lewisville, TX, USA",
+            "global_code" : "8655226H+WF"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJIU6JvfsuTIYR7pKwBJqrVLA",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 14,
+         "vicinity" : "725 Hebron Parkway, Lewisville"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9139452,
+               "lng" : -96.9623067
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9154477802915,
+                  "lng" : -96.96092656970849
+               },
+               "southwest" : {
+                  "lat" : 32.9127498197085,
+                  "lng" : -96.96362453029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy_cross-71.png",
+         "name" : "CVS Pharmacy",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 5376,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106560145125357013907\"\u003eNagarajan Madeswaran\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAylQf__HuibxS2KpfHlLIyNumXE4kBGzeUQTrvEw8Kw4EvzjdzUmHZtbr7TiGrcRwTjFVeT77KFkpSnvm0e6krlx-svoV76oYyreffJGW53wBJOcDt6-3umsdA5EAwi5EhDjiPZXnEDAHO92Ld9NV8n_GhRKjqWrb1aFvr-TAv4Ub9Oeg9ZaTQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJpzmOgEwoTIYRW4DtpL4ai9g",
+         "plus_code" : {
+            "compound_code" : "W27Q+H3 Irving, TX, USA",
+            "global_code" : "8645W27Q+H3"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJpzmOgEwoTIYRW4DtpL4ai9g",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 23,
+         "vicinity" : "7845 North MacArthur Boulevard, Irving"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.0949941,
+               "lng" : -96.79975119999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.0963389802915,
+                  "lng" : -96.7981984197085
+               },
+               "southwest" : {
+                  "lat" : 33.0936410197085,
+                  "lng" : -96.8008963802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy_cross-71.png",
+         "name" : "Sam's Club Pharmacy",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 540,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105995859857071810978\"\u003eSam&#39;s Club Pharmacy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgjyhJ9s8Rq_GTg99yMm7i4WdNwX57V--csV1euFBJpLRMQ8-3uwUm1DYLCJg8ETg9OBuX__MfHT_GEihPncMHwpZNA8uEb38gIvFENoT09Zrr0O4fcQ2dmOOS-jnE5d4EhCl_5vI7PM3fLsZu_MBRBThGhTrBcCVnzD4RyECDs6WQGRJK5w-qQ",
+               "width" : 810
+            }
+         ],
+         "place_id" : "ChIJF26_At48TIYRooR1Po6TmyQ",
+         "plus_code" : {
+            "compound_code" : "36V2+X3 Plano, TX, USA",
+            "global_code" : "865536V2+X3"
+         },
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "ChIJF26_At48TIYRooR1Po6TmyQ",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "8621 Ohio Drive, Plano"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.928,
+               "lng" : -96.81317
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9292379302915,
+                  "lng" : -96.8117289697085
+               },
+               "southwest" : {
+                  "lat" : 32.9265399697085,
+                  "lng" : -96.8144269302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy_cross-71.png",
+         "name" : "CVS Pharmacy",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 667,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117897639561597264070\"\u003eCVS Pharmacy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAsSAuD32sS8lOJ_PlG6dNuwbqVi7qIvYKmHsnvB7XIJgaqyTRd3WzHFD4zjDJbrK1lJO9AvEjH1e4clTZnYrsl7EQOROpPD_1uzJK6nyKInYVfuLaoUKJQS_C_WqIox2hEhA4-6DngR2XEjsm3vRU9_psGhTrgwabecwkXJvGMzLXXQfWks3peA",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJR12B5ecgTIYRMlrC0tg3tG8",
+         "plus_code" : {
+            "compound_code" : "W5HP+5P Dallas, TX, USA",
+            "global_code" : "8645W5HP+5P"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJR12B5ecgTIYRMlrC0tg3tG8",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "13131 Montfort Drive, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.0738193,
+               "lng" : -96.7708803
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.0750514302915,
+                  "lng" : -96.76953246970849
+               },
+               "southwest" : {
+                  "lat" : 33.0723534697085,
+                  "lng" : -96.7722304302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy_cross-71.png",
+         "name" : "Tom Thumb Pharmacy",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118345372770342601555\"\u003eJake Vinson\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQmhX4zWcPamynvWjVovGGQ8lzsoepH2ME3i_iFwbssincREy8pNgzrfQ_6uVSHjka8ZDLD92_wdwaPm-udlv1PWLP9tVV8rrTdWE17E3Rkcmn67Qm5H_mGb-43CgA50uEhA8nEk76uyMaGD94YiMCXBLGhRu-CJBXGqfIRTuBNkO-krRy6LRpQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ07nK1zQjTIYR6TL4w2AQbfE",
+         "plus_code" : {
+            "compound_code" : "36FH+GJ Plano, TX, USA",
+            "global_code" : "865536FH+GJ"
+         },
+         "price_level" : 2,
+         "rating" : 5,
+         "reference" : "ChIJ07nK1zQjTIYR6TL4w2AQbfE",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "3945 Legacy Drive, Plano"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9145132,
+               "lng" : -96.6497675
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9160824302915,
+                  "lng" : -96.64837821970849
+               },
+               "southwest" : {
+                  "lat" : 32.9133844697085,
+                  "lng" : -96.6510761802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy_cross-71.png",
+         "name" : "Kroger Pharmacy",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 270,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104996842849656386902\"\u003eKroger Pharmacy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA9-XtZYodYdev37YI9JNLJFbvbVqTCUNNv1HQ7SP3C4rnpRD9_UTM6b0Gw3SL-ZounJEvzTSw2wXCRa2koYUYdfWVbxonZDqGzMWCUh-pdnBOoPdnOVHHkXK9_UJWlzEvEhDbRMVdJBMUwToJuEQLAUy1GhQkKGykj-2POMO83SlmWU-tLi3kGw",
+               "width" : 480
+            }
+         ],
+         "place_id" : "ChIJe_d6Y-4dTIYRWSUOaDOUsYM",
+         "plus_code" : {
+            "compound_code" : "W972+R3 Garland, TX, USA",
+            "global_code" : "8645W972+R3"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJe_d6Y-4dTIYRWSUOaDOUsYM",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 12,
+         "vicinity" : "1406 West Walnut Street, Garland"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.881145,
+               "lng" : -96.7624479
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8822357302915,
+                  "lng" : -96.76110931970848
+               },
+               "southwest" : {
+                  "lat" : 32.8795377697085,
+                  "lng" : -96.7638072802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy_cross-71.png",
+         "name" : "Anne E. Jernigan, PharmD",
+         "place_id" : "ChIJQSNdDu-fToYRx5fVLMSCpQ0",
+         "plus_code" : {
+            "compound_code" : "V6JQ+F2 Dallas, TX, USA",
+            "global_code" : "8645V6JQ+F2"
+         },
+         "reference" : "ChIJQSNdDu-fToYRx5fVLMSCpQ0",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "vicinity" : "8200 Walnut Hill Lane, Dallas, TX 75231, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8103933,
+               "lng" : -96.8369843
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8117551302915,
+                  "lng" : -96.8358066697085
+               },
+               "southwest" : {
+                  "lat" : 32.8090571697085,
+                  "lng" : -96.83850463029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Mc Garry Piper E",
+         "place_id" : "ChIJB16A4QKcToYRpDn6hOqwUaY",
+         "plus_code" : {
+            "compound_code" : "R567+56 Dallas, TX, USA",
+            "global_code" : "8645R567+56"
+         },
+         "reference" : "ChIJB16A4QKcToYRpDn6hOqwUaY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "doctor",
+            "pharmacy",
+            "health",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "5201 Harry Hines Boulevard, Dallas"
+      }
+   ],
+   "status" : "OK"
+}

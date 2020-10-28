@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.74ff4866.chunk.css",
+    "main.js": "/static/js/main.b15b0680.chunk.js",
+    "main.js.map": "/static/js/main.b15b0680.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c8a21426.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c8a21426.js.map",
+    "static/css/2.ea518cb3.chunk.css": "/static/css/2.ea518cb3.chunk.css",
+    "static/js/2.668cd0d3.chunk.js": "/static/js/2.668cd0d3.chunk.js",
+    "static/js/2.668cd0d3.chunk.js.map": "/static/js/2.668cd0d3.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.05dcb06760a61b8e814c4bb2b7905481.js": "/precache-manifest.05dcb06760a61b8e814c4bb2b7905481.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.ea518cb3.chunk.css.map": "/static/css/2.ea518cb3.chunk.css.map",
+    "static/css/main.74ff4866.chunk.css.map": "/static/css/main.74ff4866.chunk.css.map",
+    "static/js/2.668cd0d3.chunk.js.LICENSE.txt": "/static/js/2.668cd0d3.chunk.js.LICENSE.txt",
+    "static/media/compass.jpg": "/static/media/compass.91027ed7.jpg",
+    "static/media/logo2.png": "/static/media/logo2.df7cc3c4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8a21426.js",
+    "static/css/2.ea518cb3.chunk.css",
+    "static/js/2.668cd0d3.chunk.js",
+    "static/css/main.74ff4866.chunk.css",
+    "static/js/main.b15b0680.chunk.js"
+  ]
+}

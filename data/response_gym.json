@@ -1,0 +1,904 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CqQCGAEAANc7XY9Sj-LbEK0HK8le1UjsV7tg7ddy4zrskiVvB1KCkiMtcuaMp7j_AElb66S74qn2Hz-CewvHLH2V8KteQUcyJVJU_NYwPpy6PKAjqVfUF_xDwyyzT8GiXBYBbIpHg4R9bgBMHLdtG-NL42w7M8kyBNevTx_oZ6v72V7ajz67UTcRZYAEOzLeORIcz0BFL4M8Ic1Nct_hfDLDyDB8cCKgnNiQI8124Cankx8f9hep_pyjLKemGNnNhjE9Atx1U__oPkReTMzfv_wPfCT-f5t5P-mE-KBstzF3_1uuMP_CCQ-LyikL6fO8EEqfmfIprqZo8ZoZk92JuvX_cG02hthhwApvnr6J2UQ1nYa6Uv4CqxBGEs8KHQvGRmmhooEepxIQhTxPOwAK8u4tW1L2x6o2-hoUktXbiegxhB5_BTqQqu9bkJDUd3E",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.0260556,
+               "lng" : -96.78758889999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.0276158802915,
+                  "lng" : -96.78566274999999
+               },
+               "southwest" : {
+                  "lat" : 33.0249179197085,
+                  "lng" : -96.78934815
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "24 Hour Fitness",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116148229794596303164\"\u003eMamba.N10CT\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArnqhHjE_xWCq-vrcIglnKV0AVsdj7hfXq166FQbb3KwKGGVG7AFpevI1UiGAooQY9FHLmKmg2jCX_hURqzZeF2bF8sZokWu8vF9DNUeUOnseyoTKezObrsMn_OaFNjVmEhCWA9aBLhzkOTR-gjcU-GHZGhTd1yG3WWf8EEfXk3oUrR8SZRRMog",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJwTjIL1QiTIYRa4-snmovXiE",
+         "plus_code" : {
+            "compound_code" : "26G6+CX Plano, TX, USA",
+            "global_code" : "865526G6+CX"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJwTjIL1QiTIYRa4-snmovXiE",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 202,
+         "vicinity" : "4600 West Park Boulevard, Plano"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9276398,
+               "lng" : -96.80219559999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9290204802915,
+                  "lng" : -96.80108196970849
+               },
+               "southwest" : {
+                  "lat" : 32.9263225197085,
+                  "lng" : -96.8037799302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "LA Fitness",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2226,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109118482624451386574\"\u003eJoe Hainey\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA6F4wjoAnSiFvR5A6CVqGIjqN_Ubdnxs3x1rhGU-Bg6z1j9E7mxJMNaFwedf465UJ73ixljV5hUIGFA0J9e957KL01W4yuxuw7eWQKDj2arTEgVlgVTQVKnJVrXCqOIJvEhB_lzJnOZ8WwD849VyFQblgGhSydmXZCiTQOL5i_ytat7h31PIwlA",
+               "width" : 3689
+            }
+         ],
+         "place_id" : "ChIJIYxUqwwnTIYRT3brhMgUZF8",
+         "plus_code" : {
+            "compound_code" : "W5HX+34 Dallas, TX, USA",
+            "global_code" : "8645W5HX+34"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJIYxUqwwnTIYRT3brhMgUZF8",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 331,
+         "vicinity" : "13130 Preston Rd, Lyndon B Johnson Freeway Near, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9351358,
+               "lng" : -96.86332489999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9363780302915,
+                  "lng" : -96.8620973197085
+               },
+               "southwest" : {
+                  "lat" : 32.9336800697085,
+                  "lng" : -96.8647952802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/golf-71.png",
+         "name" : "Brookhaven Country Club",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 410,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105138286791740970743\"\u003eBrookhaven Country Club\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAX96RUgQZB_TKm7-fDpiMxWjzWC0EergbLrFJIFmesuuGzKMDBFLESBkC6u8wwukYqDpKGoIGgZgBpjsSwZNaXekN5O4ifjeEIAfIwvzyVlfDY5vLW5NSTIlok1ybaZeyEhBwRepsrA_ase1FKtF1LXG7GhT9tVwQ_q8yxcRHY3lRJANu0ZVrPw",
+               "width" : 728
+            }
+         ],
+         "place_id" : "ChIJw07xUeImTIYRGu5w9NLZB7U",
+         "plus_code" : {
+            "compound_code" : "W4PP+3M Farmers Branch, TX, USA",
+            "global_code" : "8645W4PP+3M"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJw07xUeImTIYRGu5w9NLZB7U",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 484,
+         "vicinity" : "3333 Golfing Green Drive, Farmers Branch"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9340931,
+               "lng" : -96.81708669999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9353363302915,
+                  "lng" : -96.81568391970849
+               },
+               "southwest" : {
+                  "lat" : 32.9326383697085,
+                  "lng" : -96.8183818802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Planet Fitness",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116783469303370362113\"\u003eKelly Beamsley\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5aavI7K0qNLsRBhmnCb-jRMglH3d_h3TBVy9PfLFXwCQCMK_JKIcpKiX4wgrghrlTPpneNyj_llTS_tz6wVL8nzMu8gg1q3zO_UZB8ITKG8r34uzMIHKjyOuRjhFK9mREhAzZLBJnah-Ec-ycw5wx7mYGhSM7oPfyAckAmJR0PqTrGTTiaQDRQ",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJyXPn7N4gTIYROgjg0GeZH-Y",
+         "plus_code" : {
+            "compound_code" : "W5MM+J5 Dallas, TX, USA",
+            "global_code" : "8645W5MM+J5"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJyXPn7N4gTIYROgjg0GeZH-Y",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "spa", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 266,
+         "vicinity" : "5301 Alpha Road, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.0288575,
+               "lng" : -96.8097411
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.0300438802915,
+                  "lng" : -96.80835206970849
+               },
+               "southwest" : {
+                  "lat" : 33.0273459197085,
+                  "lng" : -96.8110500302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/golf-71.png",
+         "name" : "Gleneagles Country Club",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 410,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103839952532586032470\"\u003eGleneagles Country Club\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAUypOwQ0alT7jcnvbAV-IdQ-flFkJ_u0zhtTf2uDVaxMsbVNSMUJxbtXpMk-zcxxqSKXnCdydrltiXlRJwHwEorlhxcHBOYaHp3Vcp9_SHl6Sa8Khgdh3ecajgfjHQUFFEhAlQRB7xA9u1oIzOEyRZ0yaGhQjsogToq3YNkP81s2WqpolhIwC-Q",
+               "width" : 728
+            }
+         ],
+         "place_id" : "ChIJgcj1EQojTIYRaUStkBhi52s",
+         "plus_code" : {
+            "compound_code" : "25HR+G4 Plano, TX, USA",
+            "global_code" : "865525HR+G4"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJgcj1EQojTIYRaUStkBhi52s",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 356,
+         "vicinity" : "5401 West Park Boulevard, Plano"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.87956810000001,
+               "lng" : -96.73638820000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.88087313029149,
+                  "lng" : -96.7348554197085
+               },
+               "southwest" : {
+                  "lat" : 32.8781751697085,
+                  "lng" : -96.7375533802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "LA Fitness",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114865491841424714631\"\u003eJan Bennett\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAoX08rbhphwF5VAi4Cdac79pyRWzfzggfj1hgzv7JPKm22dqW4UWeUcPJLlO3Jbhszc4AYtP5aUR8hl2ybBstnX2iD1yIV2aazSP7A6vGhWuflmsGZXRSvCGuP826S7M4EhC4kWIBEQGBjESvpMSSKIPCGhS7QF-VfMYFKNckyhh8_g8R82QC0A",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJnRMlwhagToYR-h0tI_tL67E",
+         "plus_code" : {
+            "compound_code" : "V7H7+RC Dallas, TX, USA",
+            "global_code" : "8645V7H7+RC"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJnRMlwhagToYR-h0tI_tL67E",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 313,
+         "vicinity" : "7211 Skillman Street, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.0916314,
+               "lng" : -96.8438601
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.0928824302915,
+                  "lng" : -96.8422866697085
+               },
+               "southwest" : {
+                  "lat" : 33.0901844697085,
+                  "lng" : -96.84498463029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/golf-71.png",
+         "name" : "Stonebriar Country Club",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 410,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100164024766426873781\"\u003eStonebriar Country Club\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJcjRCU02kIT4eAyVxuUt9VBqrTA90OMssok9g9n1ZOArx6FwWQ2yVT-Fo7cuKzLeDCC-6wLrrWWhfkY_dvh_JaIsI7fTDSxc3v63wxu6Z3GXwbalIgtRAYflRpGPiATHEhCzXuxu_gID6O_NwKGR5OSeGhRKG69enl8iHd3J56j7q1S8MENGyg",
+               "width" : 728
+            }
+         ],
+         "place_id" : "ChIJPxy8W2c7TIYRmEouOdT4kAM",
+         "plus_code" : {
+            "compound_code" : "35R4+MF Frisco, TX, USA",
+            "global_code" : "865535R4+MF"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJPxy8W2c7TIYRmEouOdT4kAM",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 353,
+         "vicinity" : "5050 Country Club Drive, Frisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9909405,
+               "lng" : -96.73051049999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.99237943029149,
+                  "lng" : -96.72908711970848
+               },
+               "southwest" : {
+                  "lat" : 32.98968146970849,
+                  "lng" : -96.7317850802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/golf-71.png",
+         "name" : "Canyon Creek Country Club",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 410,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110546251908011263686\"\u003eCanyon Creek Country Club\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAtYhgZFDU5MKsBe1lmaz9K0sDB6tD9ngRj_jZwT8I3jFkAeKIFcdEWaTIkt36W0YY1y6Zq1Ib7sQUHgDJ9xa6qYQkffxb316S7s_1J9u23vnPtcbBDYTb4XaCxLSNd1B6EhBFP6P_XcKFfQgmBOgc7a1CGhR2gT5Efhs4UXnrQy9ZQA3VxbgmHA",
+               "width" : 728
+            }
+         ],
+         "place_id" : "ChIJSSFsCq4eTIYRrfbxDjp9EcA",
+         "plus_code" : {
+            "compound_code" : "X7R9+9Q Richardson, TX, USA",
+            "global_code" : "8645X7R9+9Q"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJSSFsCq4eTIYRrfbxDjp9EcA",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 198,
+         "vicinity" : "625 West Lookout Drive, Richardson"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9645038,
+               "lng" : -96.64802759999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9656659802915,
+                  "lng" : -96.6468006197085
+               },
+               "southwest" : {
+                  "lat" : 32.96296801970851,
+                  "lng" : -96.64949858029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Life Time Fitness",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109373467288274602063\"\u003eLife Time Fitness\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXb7mp-_Lpe4q17UoaxLcNOWzRpsTc8TkVHphRYPaoxHsh7mFm2UyppQaqKdFOiRyQjy4wXyoi1HVtEbNmnTcrGHrKcA3iAlM6cv7OvAI7s5SoPJrxMsgRc4hbd_GkaCBEhBvlAXiB03JmDdRi3vQAYaXGhQ6xOBA2eJbTk1QZo7Rrvzb6I6c8w",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJsehy2TscTIYR9WM9kAFAkAk",
+         "plus_code" : {
+            "compound_code" : "X972+RQ Garland, TX, USA",
+            "global_code" : "8645X972+RQ"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJsehy2TscTIYR9WM9kAFAkAk",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 289,
+         "vicinity" : "5602 Naaman Forest Boulevard, Garland"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.0731717,
+               "lng" : -96.7928213
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.0742818302915,
+                  "lng" : -96.79178996970849
+               },
+               "southwest" : {
+                  "lat" : 33.0715838697085,
+                  "lng" : -96.7944879302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Life Time Fitness",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 627,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103125393906023773751\"\u003eLife Time Fitness\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAoDOaI92LujdoXl9g_Pg8ZNg-uxIDbIP-XhUWcwgiY0qbe6VCclK_pvldkZUI2ZUmTHUi4t2V9PfHTXBXAbG9cMBYEIaUq26mt4hr76zAb2fM_ri70cznvHubrXDmKUqzEhAFoi-7koRdXHQMYzvBmhQoGhQhjpiALjNkJw85hH3znshRrlgAgg",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJwczoBSsjTIYRjM1zo0SJzL0",
+         "plus_code" : {
+            "compound_code" : "36F4+7V Plano, TX, USA",
+            "global_code" : "865536F4+7V"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJwczoBSsjTIYRjM1zo0SJzL0",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 315,
+         "vicinity" : "7100 Preston Road, Plano"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9212216,
+               "lng" : -96.97586290000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.92249988029149,
+                  "lng" : -96.97431716970848
+               },
+               "southwest" : {
+                  "lat" : 32.91980191970849,
+                  "lng" : -96.97701513029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "24 Hour Fitness",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109687765080933596399\"\u003e24 Hour Fitness\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJ_rgZOx53uAv9tIjbeqS3X_T9zoz1P7Kdtxwxl8X5Bpc5FGXPds9xcZEVYBVFOZx-GKk1pxgIe9lUtU77Rxn_1Dd0SJfJEulw6L7bKCb2jkx5GSjSHOLgJCSdQP-RGnOEhAShoZNb8SiAxg9OVTddzSoGhTeRjOPMEIVPqUJaZwSh2iofMDVHg",
+               "width" : 5760
+            }
+         ],
+         "place_id" : "ChIJPeR4n6UpTIYRqQVUaJ5g06M",
+         "plus_code" : {
+            "compound_code" : "W2CF+FM Irving, TX, USA",
+            "global_code" : "8645W2CF+FM"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJPeR4n6UpTIYRqQVUaJ5g06M",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 297,
+         "vicinity" : "2280 Market Place Boulevard, Irving"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.0004515,
+               "lng" : -96.7632845
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.0016199302915,
+                  "lng" : -96.7619387197085
+               },
+               "southwest" : {
+                  "lat" : 32.9989219697085,
+                  "lng" : -96.7646366802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "LA Fitness",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 679,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100815753582388935468\"\u003eAlford Hixon\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAx1kY6ynf66vKpiX7Q5on_7XlSosYJSw_g_LRzl51JC4XPEoDyDfNY6X1-H2i9CyGlIKZqF6AiWbwm--D8PInPievO7wNaQkXWcmC1CWAAY5ecJVKUoQfBFo7g8O3GCWYEhAfUO7F8wuH4PGDCxGM7klvGhSs3Jadd1h-Di2Sd1Nxo0HYwTmjnQ",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJfaZqBBEiTIYR7n80hCgwU-A",
+         "plus_code" : {
+            "compound_code" : "262P+5M Plano, TX, USA",
+            "global_code" : "8655262P+5M"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJfaZqBBEiTIYR7n80hCgwU-A",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 250,
+         "vicinity" : "3701 West President George Bush Highway, Plano"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9078911,
+               "lng" : -96.770022
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9093205802915,
+                  "lng" : -96.76866841970849
+               },
+               "southwest" : {
+                  "lat" : 32.9066226197085,
+                  "lng" : -96.7713663802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "name" : "TITLE Boxing Club Dallas Central Forest",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109695955550557104226\"\u003eTITLE Boxing Club Dallas Central Forest\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAlpo9tmWCqE42ztAkILlY63Ut0QgpPt7g0CZJLuXPEHocm_swt6GNDkxKdAugKqdzw9RmBhkMt37mdmw5Y5Lmb5zAjPeRgGND1zd-dF4M6Q5jmph6xADr-KRcdl5enDmxEhBfAAHxVEl2Eaz7cpau2gFPGhTmYJFYN24IcTbRMJ8KysD8eNweKw",
+               "width" : 511
+            }
+         ],
+         "place_id" : "ChIJ1wdzlhIgTIYRvE9TQAkjmBU",
+         "plus_code" : {
+            "compound_code" : "W65H+5X Dallas, TX, USA",
+            "global_code" : "8645W65H+5X"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ1wdzlhIgTIYRvE9TQAkjmBU",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 79,
+         "vicinity" : "11613 North Central Expressway, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.0585113,
+               "lng" : -96.69163209999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.05992128029149,
+                  "lng" : -96.69022251970848
+               },
+               "southwest" : {
+                  "lat" : 33.0572233197085,
+                  "lng" : -96.69292048029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "LA Fitness",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110829322694821553091\"\u003eWinnie Guan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbovSSC7S0rzNYp1w0kf4KrB4eSQBNtPn3_q2t5w80BRvqgSS-AWSM9GlnHILafg_1_27BT9vFCnJmm_Co0YLPjne0KfPTvdvWJCkCH_Th40uSc81nGg3F8AoKgBoskxaEhC8dOHYJh5v0KBjiLV-zXswGhRlXM3w8lCjucGslOqOYOSe_ozlug",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJLSugYccZTIYRh1NmViMLG0E",
+         "plus_code" : {
+            "compound_code" : "3855+C8 Plano, TX, USA",
+            "global_code" : "86553855+C8"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJLSugYccZTIYRh1NmViMLG0E",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 351,
+         "vicinity" : "6101 K Avenue, Plano"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.13110339999999,
+               "lng" : -96.64481099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.1322750802915,
+                  "lng" : -96.64346251970849
+               },
+               "southwest" : {
+                  "lat" : 33.1295771197085,
+                  "lng" : -96.6461604802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "24 Hour Fitness",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118274892789913511490\"\u003eRay Guan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdkE7msiwuihd60bp6E4AE5mMbihls52N2Kgw-vjIutZ5_D6GvN5rwV0IoldMKmhoFq3V0pkHXQ2glpdonLaGmYw8tvQETNmoauK5Ra6VcJL_uUKaa15W-o3tBy0FAk7pEhBG5uj6WwzKLWiCmTLJJue0GhT8xzbII_gC4nqOgLsBkr5EpzX__A",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJFX1WzmkXTIYRPiDR-Sdw7hI",
+         "plus_code" : {
+            "compound_code" : "49J4+C3 Fairview, TX, USA",
+            "global_code" : "865549J4+C3"
+         },
+         "rating" : 2.7,
+         "reference" : "ChIJFX1WzmkXTIYRPiDR-Sdw7hI",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 129,
+         "vicinity" : "361 Southwind Lane, Fairview"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.0290957,
+               "lng" : -96.84127079999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.0304387802915,
+                  "lng" : -96.84000391970848
+               },
+               "southwest" : {
+                  "lat" : 33.0277408197085,
+                  "lng" : -96.8427018802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "TRANSFORMER FITNESS",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113708048984108384934\"\u003eErik Hubner\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAv3BRZKWbR1ysYY8WVRcnfVsr9Z8CO2pBiJQ27XUvzMc7IZNIVNUrPC-5dw86hI9nbJsOcf1Az5pU4fmvVP-H5A-58YdhEVbiSKM2fHDxAPttvLQUcihdrjWCVXd1Bm-EEhCZ7KAyY1TXf0R8-utDjfJ2GhT39BKwNDSIYzXUWX5T22oGGtRiOg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ4xw2QIckTIYRzmE5zSg0Tq4",
+         "plus_code" : {
+            "compound_code" : "25H5+JF Plano, TX, USA",
+            "global_code" : "865525H5+JF"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ4xw2QIckTIYRzmE5zSg0Tq4",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "6505 West Park Boulevard #208, Plano"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.0290972,
+               "lng" : -96.84127099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.0304402802915,
+                  "lng" : -96.8400040697085
+               },
+               "southwest" : {
+                  "lat" : 33.0277423197085,
+                  "lng" : -96.84270203029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Plano Pro Trainer",
+         "photos" : [
+            {
+               "height" : 290,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106232717780635557922\"\u003ePlano Pro Trainer\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjUpvFn-u9Y_jUdKKQ2LmN01DJxCQDn9vDaQPA6ndy0yTmGSUfTkYaizt5It3ByeQKvXNIjrGeJ8Qhu01ZkGfysmkKb69V5azpI5n0G5kD0NuT6-nWB2cJC3_0q-8d3UFEhCATRWCllr3i2HUb06vgqVAGhSbRwX0Z65ML_6u4lYvbbbtmFBQnw",
+               "width" : 300
+            }
+         ],
+         "place_id" : "ChIJj-9eXngjTIYRP0ZaanRGwPw",
+         "plus_code" : {
+            "compound_code" : "25H5+JF Plano, TX, USA",
+            "global_code" : "865525H5+JF"
+         },
+         "rating" : 5,
+         "reference" : "ChIJj-9eXngjTIYRP0ZaanRGwPw",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "6505 West Park Boulevard #208, Plano"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8616055,
+               "lng" : -96.9471252
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8630918802915,
+                  "lng" : -96.94585896970848
+               },
+               "southwest" : {
+                  "lat" : 32.8603939197085,
+                  "lng" : -96.9485569302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/golf-71.png",
+         "name" : "Las Colinas Country Club",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 410,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104320631041632100224\"\u003eLas Colinas Country Club\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArdu7klWVFzT96qfccNOMtldEYoIvTCGU10j8DGzTLZ-XD-JJY3WDt9r5kqWQKkv_kHH9tAlw4tT_4i964N-rs_LsymoacVmb3F0j4q_BKp_UMkj7r8zjvEH9TdgLwUacEhC-XcJyB8XbZcrnvqMM3z4-GhQL4qFioc4qv8HpV7OBLLlyAAmVoA",
+               "width" : 728
+            }
+         ],
+         "place_id" : "ChIJdTpn1sOCToYRiximuzPCb3c",
+         "plus_code" : {
+            "compound_code" : "V363+J4 Irving, TX, USA",
+            "global_code" : "8645V363+J4"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJdTpn1sOCToYRiximuzPCb3c",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 297,
+         "vicinity" : "4400 North O'Connor Road, Irving"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8670539,
+               "lng" : -96.7871856
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8685450302915,
+                  "lng" : -96.78574621970849
+               },
+               "southwest" : {
+                  "lat" : 32.8658470697085,
+                  "lng" : -96.78844418029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Equinox Preston Hollow",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 500,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114964231938201397688\"\u003eEquinox Preston Hollow\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAuID_CehxO-MmEz2rXE1p3K6xbD_PyTe0yImnV3GgaEzNmrI1xTlZ6kmDTkRzSpQgfMpMC2fxN7onAXMBSUh1sxQotdU3hPmIud8yEm2xu8Wk0j8knmyS9bIrnY2RQW7TEhAZctQW8DA8zXWQgsGQtxqxGhQnrb6Ym0zRtT2G2ek2XNv81qhTCQ",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJCfHnqbafToYR9vVEZLOsmFs",
+         "plus_code" : {
+            "compound_code" : "V687+R4 Dallas, TX, USA",
+            "global_code" : "8645V687+R4"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJCfHnqbafToYR9vVEZLOsmFs",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 37,
+         "vicinity" : "8611 Hillcrest Road, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.83759059999999,
+               "lng" : -96.7734432
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.83893958029149,
+                  "lng" : -96.77209421970851
+               },
+               "southwest" : {
+                  "lat" : 32.8362416197085,
+                  "lng" : -96.77479218029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Trophy Fitness Mockingbird",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4752,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110088906361005506604\"\u003eMatthewPotter Photography\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAonuR35r__q_S-xSZ6Tcjivn3PN9UdSP1ZJN5sG06Ln7ssArsGG4KGMK08wRAr15ous2OsqFTvlwDO7adEiqrt3I6nJjGJWR3NR9Uqk_GHYf2Zyf6ZoptIBuKLR-BTd6pEhBD0M4rx8YZzZ2E6pgUoesWGhQhcCxzftFBUzFN1VOJG2p215TatQ",
+               "width" : 3168
+            }
+         ],
+         "place_id" : "ChIJO4bw5BKfToYRt45AKRW7cWU",
+         "plus_code" : {
+            "compound_code" : "R6QG+2J Dallas, TX, USA",
+            "global_code" : "8645R6QG+2J"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJO4bw5BKfToYRt45AKRW7cWU",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "spa", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 50,
+         "vicinity" : "5555 East Mockingbird Lane #200, Dallas"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,949 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CqQCGwEAADkQ43SGpPlK1TmQL26pbi-DZiExzUkOqjbNp5Uny5OTacZ3PSYT1QPrxMoBN2sWUIdYNmpU5Cjzv_U6R5fafUconiyZw-aCLtoW2sXSwrjOoPzAnErgWXd-PV5P-NAkV4IBTq0dsF_MjyjGMvW2bm0hOZr1dHn7KiIv5CvAQGXka_W2lO332CyQIirzYrEYFXcbs5Ht_XyEtjm_07szf1oetvIbDcxUG2Lg_h_ke_5ROpRMgQTdGfF6LbqoxRosqUHTI8M9-Gwbrvx_tYO39vHRW6m5YAsIzq1U7fDHnuRn9qzW7Ia-Rx7MDxn9lemnA-YDYKHR5rXdX4xxfoLJTYRGf1-kXNkrsOKSSew_GhHwf6dOvjDeJEsWFhXe2cCvIRIQWHOEXst2pOGczfBFBSjzqhoUYzhZwVG_5Mk6UZKlGb82I2iItgw",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.78694249999999,
+               "lng" : -96.80658819999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7877269802915,
+                  "lng" : -96.8056020697085
+               },
+               "southwest" : {
+                  "lat" : 32.7850290197085,
+                  "lng" : -96.80830003029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Perot Museum of Nature and Science",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 497,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114433260623630988335\"\u003ePerot Museum of Nature and Science\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAmV7ajt653dM3M8218P4ngzEL_hco6myJk68kd5FFGJbfbdbpGFSUwg_YvnYZ7mK0Vo7x5eLXTd1WSTclYq5HlUCEQ0M7fpzcfxhrzYiVtijdbGEVNzpu041uKm6df78oEhBKD6q_YacBAyczRirJZ2PpGhTYn6eehbGS6ZYKgzClVYV4veVYkA",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJZ5o-djyZToYRniIJlDDbb_8",
+         "plus_code" : {
+            "compound_code" : "Q5PV+Q9 Dallas, TX, USA",
+            "global_code" : "8645Q5PV+Q9"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJZ5o-djyZToYRniIJlDDbb_8",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 11396,
+         "vicinity" : "2201 North Field Street, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7798188,
+               "lng" : -96.8084842
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7813160802915,
+                  "lng" : -96.80715836970849
+               },
+               "southwest" : {
+                  "lat" : 32.7786181197085,
+                  "lng" : -96.80985633029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "The Sixth Floor Museum at Dealey Plaza",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105827015827796485827\"\u003eRichard Axelrod\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAHaVXdonnEeD9tr63fwsXTAp4Mo0qRcH-PbiWoSQZxBoQ0zcuA0GFGGZA9YwOxXqhxTaQOnAiomu4UUPX_bC0NlifTH85pO5KRSw7XJmVzmV2m1aw3pgNFI0xGzHT0n4rEhBWf8ZJu-FuLzUwQF-A5d06GhTs_G77yNfvIO756ZvgJZIGesMzRw",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJwQTJ3xWZToYRjooryEPLtOw",
+         "plus_code" : {
+            "compound_code" : "Q5HR+WJ Dallas, TX, USA",
+            "global_code" : "8645Q5HR+WJ"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJwQTJ3xWZToYRjooryEPLtOw",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6828,
+         "vicinity" : "411 Elm Street, Dallas"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.84118300000001,
+               "lng" : -96.778198
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8422680802915,
+                  "lng" : -96.77644186970849
+               },
+               "southwest" : {
+                  "lat" : 32.8395701197085,
+                  "lng" : -96.7791398302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "George W. Bush Presidential Center",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 1290,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101221417376658597809\"\u003eGeorge W. Bush Presidential Center\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACYH3mWuEQmomY2aPlP9VyUG7QX6F5jp_jiVLq1x4OPrX4IwQ0BNgDTGeu_I0YWwl8yefMOl7eoR6eugz6gFdSs0R5cSX_5g-Nvg0_uzjtxMcfsFO8MH-i_FGEXXSVuKGEhAT3bwQyE7_PwVi1kEdlKZiGhQ6R8WESO4eVW6vGqXtjzrH5OL4ug",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJTSIEVQ6fToYR6bFECcv6kD4",
+         "plus_code" : {
+            "compound_code" : "R6RC+FP Dallas, TX, USA",
+            "global_code" : "8645R6RC+FP"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJTSIEVQ6fToYR6bFECcv6kD4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "museum",
+            "library",
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 347,
+         "vicinity" : "2943 SMU Boulevard, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7882436,
+               "lng" : -96.80172759999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.78929415,
+                  "lng" : -96.79859789999999
+               },
+               "southwest" : {
+                  "lat" : 32.78532035000001,
+                  "lng" : -96.80278589999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Dallas Museum Of Art",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114631188709760264530\"\u003eOsama Elfar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAssfCYR5MaXUERFIFwYyHBp4g5bBlHZmkTM-INSRYth1hWIe1Z_ZuocFCCYYWKXq5lkkPRzcwIKBFChzzj5Ym1YQ52OgZ6_l9fNAFtU_RfhPdh09JsZ95m1feBp4NTeNUEhAadRda-oYyNdRk8-5A--fuGhTTA6XdfQSKjHsDc80n7XwydoD9UQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJe8S3giSZToYRsPXa5kCf8QY",
+         "plus_code" : {
+            "compound_code" : "Q5QX+78 Dallas, TX, USA",
+            "global_code" : "8645Q5QX+78"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJe8S3giSZToYRsPXa5kCf8QY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "art_gallery",
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7486,
+         "vicinity" : "1717 North Harwood Street, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7730744,
+               "lng" : -96.78603409999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7743742802915,
+                  "lng" : -96.78472086970851
+               },
+               "southwest" : {
+                  "lat" : 32.7716763197085,
+                  "lng" : -96.78741883029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Dallas Heritage Village",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111841064942166733956\"\u003eDallas Heritage Village\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAb9gQR1jPYoZv22Bsjn8rhYL-A1yVXzRnDEGRIDGqrkMYmrtEIRlgO6NXwQDkmy_emR058Kh-L0giZaFmdKrxA8giX0WGgOuXDO03lDNP5l0TdotdLV1iQfPJEZpUXbdDEhAjPnpDxZz8mchfCyaovC5BGhTqP10U10bgKRZmKxE-cQaSaezMtg",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJeU_zFuOYToYRf8w6yEOeq-w",
+         "plus_code" : {
+            "compound_code" : "Q6F7+6H Dallas, TX, USA",
+            "global_code" : "8645Q6F7+6H"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJeU_zFuOYToYRf8w6yEOeq-w",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 599,
+         "vicinity" : "1515 South Harwood Street, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7883225,
+               "lng" : -96.80017649999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7894823802915,
+                  "lng" : -96.79871336970848
+               },
+               "southwest" : {
+                  "lat" : 32.7867844197085,
+                  "lng" : -96.8014113302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Nasher Sculpture Center",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1223,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104216017277273297266\"\u003eNasher Sculpture Center\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAABuoRfzbPiicpgwgmmJ0hx7r4L8ccZS64B25kzDSxF8II8FR8H6qaVdAIjpumxHt4qIei3dnpnIafwkdUWvs18TjlFS8zjOsFpVEAgCtwJKtMCJYgXwPybA6E4Guw77EhBvQoNVDBkHueYfqTAvgoVxGhSSKdHxCoIngD8OBE_INKcKvob_gg",
+               "width" : 2571
+            }
+         ],
+         "place_id" : "ChIJnTv3iySZToYRSkGiX_2wUTs",
+         "plus_code" : {
+            "compound_code" : "Q5QX+8W Dallas, TX, USA",
+            "global_code" : "8645Q5QX+8W"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJnTv3iySZToYRSkGiX_2wUTs",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1180,
+         "vicinity" : "2001 Flora Street, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.842602,
+               "lng" : -96.835202
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8438012302915,
+                  "lng" : -96.83368591970847
+               },
+               "southwest" : {
+                  "lat" : 32.8411032697085,
+                  "lng" : -96.83638388029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Frontiers of Flight Museum",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3021,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107462567438248043849\"\u003eTaylor Moore\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGpeNy2MWWdCiOsGpQUjZSL454_5GX9AOwZ4MTurcv5jCG7TuwdGWi0kYMUc6ZCREboBDjFVcgTz4Q2tXIciQKOvcfGIqOT-tnuQLk608-K3uLTTqwwi_16rn1a2T2i8fEhAnBXhihEwXp4qw3M8UYYIDGhTXjh25WBzz4cgEbTB7sl0HkPCQtQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ9fAt2oGeToYRkrk0DceyFdw",
+         "plus_code" : {
+            "compound_code" : "R5V7+2W Dallas, TX, USA",
+            "global_code" : "8645R5V7+2W"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ9fAt2oGeToYRkrk0DceyFdw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1529,
+         "vicinity" : "6911 Lemmon Avenue, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.83841459999999,
+               "lng" : -96.7843335
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.83976228029149,
+                  "lng" : -96.7828128197085
+               },
+               "southwest" : {
+                  "lat" : 32.83706431970849,
+                  "lng" : -96.7855107802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Meadows Museum",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102140291557036422483\"\u003eMeadows Museum\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAg1qrjHSgBuUFa1JANsOzwAtwoqG7f8mxM5tp6OUELMEhGUBXTL6xq5WV1EqmNnZrBb0MWLWZInLeXIDv31GTtO7PjZK_FaPuRU6Efcy2Ww1Wc57IJYCGU_Yb9_j01ctFEhA6ntrX1w8JXLVm2E-yD2DnGhSdklIeKfdc4JuOyKdxSFyy8WwnIA",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJ6Z1bFhufToYRBLeMhBJF-gc",
+         "plus_code" : {
+            "compound_code" : "R6Q8+97 Dallas, TX, USA",
+            "global_code" : "8645R6Q8+97"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ6Z1bFhufToYRBLeMhBJF-gc",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 323,
+         "vicinity" : "5900 Bishop Boulevard, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7786371,
+               "lng" : -96.80731329999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.78012218029149,
+                  "lng" : -96.80584541970848
+               },
+               "southwest" : {
+                  "lat" : 32.77742421970849,
+                  "lng" : -96.8085433802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Old Red Museum of Dallas County History & Culture",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2208,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101950557113908375418\"\u003eChristine Lorraine\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAyrC3EvfZgUVhdgoaffzHxFJLL2S0diP8trXAEm6NImQr6D0P0uUlS5n07X4Mfzc0uuOFCJmxTJsOlbSGoPL7WTngyqizQ9NEdanY8Fk9FGliFnRgI6tJIfIA1FTLK1YxEhByLrSpJEPzvo0itckXZv_GGhRi6a3huFzYxc8CYtFnelTnZ3pWMw",
+               "width" : 2147
+            }
+         ],
+         "place_id" : "ChIJEVqrYhaZToYRxrYAmlY9vck",
+         "plus_code" : {
+            "compound_code" : "Q5HV+F3 Dallas, TX, USA",
+            "global_code" : "8645Q5HV+F3"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJEVqrYhaZToYRxrYAmlY9vck",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 587,
+         "vicinity" : "100 South Houston Street, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.158261,
+               "lng" : -96.615741
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.15961813029149,
+                  "lng" : -96.61437171970849
+               },
+               "southwest" : {
+                  "lat" : 33.1569201697085,
+                  "lng" : -96.61706968029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_recreational-71.png",
+         "name" : "Heard Natural Science Museum & Wildlife Sanctuary",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115901210200184586442\"\u003eHeard Natural Science Museum &amp; Wildlife Sanctuary\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAK71fpbsEsWhJ1fuW9a8POFxUVJTI7QsXZX_qJEk5-Dl6femAyHp24xC6s731RPeIwZI-hU_3xpbCTbDBLMN9bp7xZjrQqdpIaxd4b_0zq9Xu6vnF0GbVLECrtAPInmFGEhBxD4QhYxv8dBQHBCHgD21sGhRGhvZBi1BwEEuqcYvWPbd3DUPwdg",
+               "width" : 1680
+            }
+         ],
+         "place_id" : "ChIJF8JZ85sRTIYR9sVsbO94s4Q",
+         "plus_code" : {
+            "compound_code" : "595M+8P McKinney, TX, USA",
+            "global_code" : "8655595M+8P"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJF8JZ85sRTIYR9sVsbO94s4Q",
+         "scope" : "GOOGLE",
+         "types" : [
+            "tourist_attraction",
+            "museum",
+            "park",
+            "school",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 207,
+         "vicinity" : "1 Nature Place, McKinney"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.97259799999999,
+               "lng" : -96.8348752
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.97408988029149,
+                  "lng" : -96.83367596970848
+               },
+               "southwest" : {
+                  "lat" : 32.97139191970849,
+                  "lng" : -96.8363739302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Cavanaugh Flight Museum",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113835148055962281125\"\u003eAndrew Campbell\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAHCh2gIavna1582hQroF_XcMvyXw20xVGwpkReiHfsuKP6CTderdB4Z4uK8iyufMTINkzn1pTJ2xyt9kC5UtL04VQNegsKp8OtmBM6A1W7UYxB1jT9xDLdJSxbi0-KCifEhAkIDPBCHKctbPjU2ZPlqo_GhQQYg0FaarnKMYtR1mvNNevFxCsVg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJN5POMq0mTIYRT58VK-FXWO8",
+         "plus_code" : {
+            "compound_code" : "X5F8+22 Addison, TX, USA",
+            "global_code" : "8645X5F8+22"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJN5POMq0mTIYRT58VK-FXWO8",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 503,
+         "vicinity" : "4572 Claire Chennault Street, Addison"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9713936,
+               "lng" : -96.8226751
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.97275733029149,
+                  "lng" : -96.82113031970849
+               },
+               "southwest" : {
+                  "lat" : 32.9700593697085,
+                  "lng" : -96.82382828029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Mary Kay Museum",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114970296567340756406\"\u003eKathleen Beauchemin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAIJnk-EsJ66bInR7AcIrjiyBTlIoKw7kbeAWfPkqM4wsL4lCSNhC3NyUTd5efOYtOSdBt7H5cl-e6Wqayv6ID-3RDO3R4rQ1xa5i9rHXZSTFhPjH_kqdtkEAF9p0_Hj4sEhD8Q2SnY1vLf3fDS4O_UA-kGhRlcSNtyC9tv51RdheoaUFbPnwSxw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJcWjEMkUhTIYRcrMfZX8V-9g",
+         "plus_code" : {
+            "compound_code" : "X5CG+HW Addison, TX, USA",
+            "global_code" : "8645X5CG+HW"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJcWjEMkUhTIYRcrMfZX8V-9g",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 356,
+         "vicinity" : "16251 Dallas Parkway, Addison"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9175301,
+               "lng" : -96.8925543
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9190403802915,
+                  "lng" : -96.89119781970849
+               },
+               "southwest" : {
+                  "lat" : 32.9163424197085,
+                  "lng" : -96.8938957802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Farmers Branch Historical Park",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112445730005960771914\"\u003eN K\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAr-hJcutXLt5zKAouZ0zYI1nIVugmvMLYTmip8cMhV9ZUfu0Suy_owFdvX_SB5ISSmyMs-7pdCdQuMJGF2nQsmns1VkaGPEKbvOcjVcI9WdR5yEhizZHFE_O5TR5_J6jqEhA9hIBzQabHA_Axc8BW2pETGhRXpw7nGiBhWE0Y3Mqf6bPhAy3E3A",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJca__DrwnTIYRQJEQo0vZDN0",
+         "plus_code" : {
+            "compound_code" : "W494+2X Farmers Branch, TX, USA",
+            "global_code" : "8645W494+2X"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJca__DrwnTIYRQJEQo0vZDN0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "tourist_attraction",
+            "museum",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 398,
+         "vicinity" : "2540 Farmers Branch Lane, Farmers Branch"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7878873,
+               "lng" : -96.79962049999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7893276302915,
+                  "lng" : -96.79835851970849
+               },
+               "southwest" : {
+                  "lat" : 32.7866296697085,
+                  "lng" : -96.80105648029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Crow Museum of Asian Art of The University of Texas at Dallas",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1367,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113663219795819433324\"\u003eCrow Museum of Asian Art of The University of Texas at Dallas\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-5JqsVMStz-OA0D9JUeOinf3Az4HdLyr9kyeNtZgEWiytnoG2sV2epOUNYkWsY_7Tn02-qgUycpcpCyUrowZRwJkeB7GeDVKjcRlXFW6-HrxamX0p-ybNSq2yAbcfnrkEhD6utdV1FPcHB6YCdwVUkKtGhSnYf603jEGz-ZFqub_JiTlVDishg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJMzsDcCSZToYRQeLWTH5j7tg",
+         "plus_code" : {
+            "compound_code" : "Q6Q2+55 Dallas, TX, USA",
+            "global_code" : "8645Q6Q2+55"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJMzsDcCSZToYRQeLWTH5j7tg",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 511,
+         "vicinity" : "2010 Flora Street, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8705227,
+               "lng" : -96.776866
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8719042302915,
+                  "lng" : -96.77545071970849
+               },
+               "southwest" : {
+                  "lat" : 32.8692062697085,
+                  "lng" : -96.77814868029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Museum of Biblical Art",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 525,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102583429516003858918\"\u003eMuseum of Biblical Art\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAsN2A3-sycZBcfQFUtb2Ng9BEFCaT3hPbBFROMgXGC1pLO52W_CW39VpYX8ev0_tNP2WlHfbuT1gz7YxRt9lgwKY7oKImgsKuSRPsQ6xnSGZYaO2ITbtdp8pfbOk4FXGhEhDyhzvWFrxcbLen1E9fLOP1GhTJM4eHL9LDg1rrebqrvVXMiUvj1g",
+               "width" : 700
+            }
+         ],
+         "place_id" : "ChIJy86YxLifToYRQ6dxfNt2i0Q",
+         "plus_code" : {
+            "compound_code" : "V6CF+67 Dallas, TX, USA",
+            "global_code" : "8645V6CF+67"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJy86YxLifToYRQ6dxfNt2i0Q",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 307,
+         "vicinity" : "7500 Park Lane, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7790574,
+               "lng" : -96.7644136
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7805224302915,
+                  "lng" : -96.7632210197085
+               },
+               "southwest" : {
+                  "lat" : 32.7778244697085,
+                  "lng" : -96.7659189802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "African American Museum of Dallas",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107740614993657732320\"\u003eMd Zahid Arefin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA9IoTQM92OteKKriCsoUNqKRlV30NdEA_HO833LJBc6qJSQLa81JZP14rBrOejbVAc4bOdUfXNCClzFRi_iNjatlp4SXk9m9EspkIqwr59nz3-0rDKLFxkgPcKnIQA5k7EhDOcqMm2wojHkyv9gg9ebXDGhSnlCFUnEv1v-huP8iewd51sivaqw",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ73mGt5aYToYRk2z9Mw_RD9E",
+         "plus_code" : {
+            "compound_code" : "Q6HP+J6 Dallas, TX, USA",
+            "global_code" : "8645Q6HP+J6"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ73mGt5aYToYRk2z9Mw_RD9E",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 755,
+         "vicinity" : "3536 Grand Avenue, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.194375,
+               "lng" : -96.613
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.1957256802915,
+                  "lng" : -96.61188046970848
+               },
+               "southwest" : {
+                  "lat" : 33.1930277197085,
+                  "lng" : -96.6145784302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Chestnut Square Historic Village",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100513290463073683597\"\u003eDongK C\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAlmodDBntwiwAxb13s3rrY5mdA8-4htUfCEl30SIsvwuvyn4iiV8HIA0C6-wWlQUzxQwBXu3ZGQmQJWiUh8hhuumkk-8ByY4f_QgAkd04j5DJsNB2pkGXF7CzP7zth4_nEhAMXtRc8JnajIv_hcnEecnrGhTrX2iDBqJnojjhIMHET6Ua73uTBw",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJiVS8tDcSTIYRUPwBSjHu7ec",
+         "plus_code" : {
+            "compound_code" : "59VP+QR McKinney, TX, USA",
+            "global_code" : "865559VP+QR"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJiVS8tDcSTIYRUPwBSjHu7ec",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 256,
+         "vicinity" : "315 South Chestnut Street, McKinney"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7903595,
+               "lng" : -96.8223028
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7916540302915,
+                  "lng" : -96.8210035197085
+               },
+               "southwest" : {
+                  "lat" : 32.7889560697085,
+                  "lng" : -96.8237014802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Dallas Contemporary",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111723022039827881274\"\u003eZiesook You\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5-ctxqofP4FiJ2-BT1417u-qcf3uy0ic6jkxor9ucm7dMqi4XecU2h06th1Bh8XXz_hNr2XbDwzEYtg-RukKQyRrwoGxCNYzekLm-HB1kTIFSgpu3sDDSxOWdqPnS-ENEhB087_hPSGv_cGScZ7RYtzMGhR7CwZ5zZj01g7yjG0H_PY0GLBvmQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJu7BxDUWZToYRSjFEtdgudc0",
+         "plus_code" : {
+            "compound_code" : "Q5RH+43 Dallas, TX, USA",
+            "global_code" : "8645Q5RH+43"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJu7BxDUWZToYRSjFEtdgudc0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "art_gallery",
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 186,
+         "vicinity" : "161 Glass Street, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.77918690000001,
+               "lng" : -96.79218779999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7806215802915,
+                  "lng" : -96.79071531970848
+               },
+               "southwest" : {
+                  "lat" : 32.7779236197085,
+                  "lng" : -96.79341328029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/library-71.png",
+         "name" : "Dallas Scottish Rite",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108113733469008564681\"\u003eDallas Scottish Rite\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAADDWijcxfJOiAD04oooFU2SSOqvtp3ol-7v0ZYx1EEw5RLWalO26NG7omUfNRH-FZD4Hr6Ld6GDeBwufeUkUxkZymX4ktV-UgLdAQFCr4epLAIuaW57pD7bbhw7hJ-TScEhBky-Kdfs1fazke7B_OuXWCGhQy78SmMuA_tW5u-NVXEa2uLOFVlg",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJ2TR_0-GYToYRvCqm2YiI0WQ",
+         "plus_code" : {
+            "compound_code" : "Q6H5+M4 Dallas, TX, USA",
+            "global_code" : "8645Q6H5+M4"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ2TR_0-GYToYRvCqm2YiI0WQ",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 14,
+         "vicinity" : "500 South Harwood Street, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.0188552,
+               "lng" : -96.7310674
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.0202765802915,
+                  "lng" : -96.73002236970849
+               },
+               "southwest" : {
+                  "lat" : 33.0175786197085,
+                  "lng" : -96.7327203302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Heritage Farmstead Museum",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1440,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113826151745231261696\"\u003eHeritage Farmstead Museum\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAlUF0WMdFVqR_ffj32rE_Zh66of3lJtFXtbwyi_vnLRFaCghKhz10C37UyVhi25pkKo1noxlqvzd7J2kt6i6I_yhYY6ReNEX40yok0PqPGHI480TLaNTwZRqzQK6CjGaYEhBXGWBTjSSONpq-GpQuzBQJGhQGLn-wEsuNAtvsZfKmRnQJAH3bPw",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJnTGkVpIYTIYRgPkEp770s_c",
+         "plus_code" : {
+            "compound_code" : "2799+GH Plano, TX, USA",
+            "global_code" : "86552799+GH"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJnTGkVpIYTIYRgPkEp770s_c",
+         "scope" : "GOOGLE",
+         "types" : [
+            "museum",
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 295,
+         "vicinity" : "1900 West 15th Street, Plano"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,990 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CqQCHwEAAI_0iXWmvPGpLF2lTechxWgt5oOV8tHaE8yFVBhqEQAPPaoIpBPNfY8-uVFsUOYVzRfmGq6dN5sYjyBczr67JQFr-u7jlTMMS9kR-6CfI-m102Xilq7-11HV-vBEVJiFUdVolOwRsb060aSHmexcF_jUIRVUeqAmlHQApiW95ojd8o4zj9C0BenxB01j6Tj4jVvd56i16uFMdzpkoQ5K_dcl_UyFtDEA8ya1stfWDkTWtMhGa67Ipkp9lWaOu552JmiJyG4UJo7c5E4ndg_DdexAQW8afKrP4Ud-Vrqy_fscK9uiwcswIYSiBBIHnkZeIGKsQ2m18etoq0HKQnRMW3Yx2OPPFfyP3Dq6q5H-Idp5rFs4VR1PyGJyXA0fT_hd7hIQup6QA_OtkKxy6wC8z3_AnhoUgmQ-Qad0k1zgEs_AjrAYZJfqvdc",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8608284,
+               "lng" : -96.89605709999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8622246802915,
+                  "lng" : -96.89488836970848
+               },
+               "southwest" : {
+                  "lat" : 32.8595267197085,
+                  "lng" : -96.89758633029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Gas Monkey Bar N' Grill",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3639,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105067049255967487978\"\u003eJoe Torma - Corporate Video and Photo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPkV9u4COZpF9kV1N7jRAa7LZXBIqD21eD6yNX2dOjM1TzeBHim6_OggIPGD9G80eTnE8JnjMI9O3oJ7fRwRPoTTSoUN2kteY8_MxS3JAtOUywCu8CmK8_sH54cEGqNsKEhC0SYoXtWlumKziToRDW7ZRGhRm3FDEVEAhd2928zHbP7FGXoB19g",
+               "width" : 5458
+            }
+         ],
+         "place_id" : "ChIJbwaQghadToYRQWsFcmfCwoE",
+         "plus_code" : {
+            "compound_code" : "V463+8H Dallas, TX, USA",
+            "global_code" : "8645V463+8H"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJbwaQghadToYRQWsFcmfCwoE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 8798,
+         "vicinity" : "10261 Technology Boulevard East, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7933191,
+               "lng" : -96.8053634
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7947585302915,
+                  "lng" : -96.8039406697085
+               },
+               "southwest" : {
+                  "lat" : 32.7920605697085,
+                  "lng" : -96.80663863029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Ocean Prime",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107531336463667839238\"\u003eOcean Prime\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGbrWqoBU0WsgvUTg7JSEwxBWEpmrAES9imqSPKoA_pjhYkS8ZBBMy4BR6VfNEuypLtlx0fFECxf1i3f7xyWryTDIxHaOqI8-rci0yGNhrwn6bslWPMtzGom-3vqaIQKKEhCkdgrva26Jfnago0x-mSQdGhQbc0AeqLiJ0fHAl-ba6ccO3eZqdA",
+               "width" : 845
+            }
+         ],
+         "place_id" : "ChIJs8StfjCZToYROdX0LGp2HXw",
+         "plus_code" : {
+            "compound_code" : "Q5VV+8V Dallas, TX, USA",
+            "global_code" : "8645Q5VV+8V"
+         },
+         "price_level" : 4,
+         "rating" : 4.7,
+         "reference" : "ChIJs8StfjCZToYROdX0LGp2HXw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 949,
+         "vicinity" : "2101 Cedar Springs Road #150, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8635545,
+               "lng" : -96.88950729999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8647605302915,
+                  "lng" : -96.88834916970849
+               },
+               "southwest" : {
+                  "lat" : 32.8620625697085,
+                  "lng" : -96.8910471302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Baby Dolls",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106860106703649306318\"\u003eBaby Dolls\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA7h-3Q_ZxDPc7Afi-cLqW73DEkrmNmDLk5HE-Pf7miw3ikFSWlr0SXgdrZp27XddQ4Zv6C8B7kLCHAwRfAzliuXI3IEYxQd3MA7uzMMe-Iyobu7KRX4zS1QyJuKA5gdgQEhB3qp8YZ3qx6FlzT2MAhWz8GhSNWa2d5dbJIdWSVpU7qNV08wAxlA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJH_9XWRKdToYRwGTsxTwI2iY",
+         "plus_code" : {
+            "compound_code" : "V476+C5 Dallas, TX, USA",
+            "global_code" : "8645V476+C5"
+         },
+         "rating" : 2.9,
+         "reference" : "ChIJH_9XWRKdToYRwGTsxTwI2iY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 200,
+         "vicinity" : "10250 Shady Trail, Dallas"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7853911,
+               "lng" : -96.8084446
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7867231302915,
+                  "lng" : -96.8071134197085
+               },
+               "southwest" : {
+                  "lat" : 32.78402516970851,
+                  "lng" : -96.80981138029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "House of Blues Dallas",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 1500,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116839019672695774075\"\u003eHouse of Blues Dallas\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVJq1KRDoVIO4lQD43-rGVYh77R1KlGNTqfugcm5tiX3j3aW-De5BXdRhJYgSO2w1ISw2BO_wuh2vUrQrPbed0GNUz3AJdwUUYEjFeFW1oPqtDFZckX_Jr3Vd-budyIMnEhBOQncFtiz0yev0HlyJsA2vGhQWBgUy-qOly940vlitIqraP48zdA",
+               "width" : 2182
+            }
+         ],
+         "place_id" : "ChIJzQfNJjyZToYRq5U0SkrLcqU",
+         "plus_code" : {
+            "compound_code" : "Q5PR+5J Dallas, TX, USA",
+            "global_code" : "8645Q5PR+5J"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJzQfNJjyZToYRq5U0SkrLcqU",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 5396,
+         "vicinity" : "2200 North Lamar Street, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8308389,
+               "lng" : -96.76978609999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8321962802915,
+                  "lng" : -96.76862321970847
+               },
+               "southwest" : {
+                  "lat" : 32.8294983197085,
+                  "lng" : -96.77132118029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Granada Theater",
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112603784413905187467\"\u003eGranada Theater\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPLt8KB-6zWFeT3bkN9Ui68jMOhb7ju_XCvISvZJ5ysI_5ba35I1CKYm965q0ya7kMYhKKqbt1E8VzhE06eot133dGgrYwAEQ_qoyXGgpWWjgz84bzvzdwpxgNxycVOocEhDOLWmtEBCHYTAFQ8mttXuJGhTOpFu5OfpjujMIQcszx8g6Ya8v8Q",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ20xM2mqfToYRZ_oW1VjNYc0",
+         "plus_code" : {
+            "compound_code" : "R6JJ+83 Dallas, TX, USA",
+            "global_code" : "8645R6JJ+83"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ20xM2mqfToYRZ_oW1VjNYc0",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 1267,
+         "vicinity" : "3524 Greenville Avenue, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.861634,
+               "lng" : -96.898337
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.86314583029149,
+                  "lng" : -96.89690941970849
+               },
+               "southwest" : {
+                  "lat" : 32.86044786970849,
+                  "lng" : -96.89960738029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Cowboys Red River",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101030604703748764616\"\u003eBishop Booker\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1uyjMlQI8x8wHnGYiEO8EMhW3BUEG9UtzZVdXfch4NABc2bvoTXgCQ-VrFL7IlfsIOOt9onmsHO1bEIYih-ZX7FoeTyjpO2BeJX4fP-f1bf7MZxiohp9Pwa50Yttajm2EhDWN2v4SxdCL7LQhegVK-dcGhQBxNa1KcP5bWb1QuBW2Vr6sqiPGQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJT0BPkBWdToYRrVyo38o98Fk",
+         "plus_code" : {
+            "compound_code" : "V462+MM Dallas, TX, USA",
+            "global_code" : "8645V462+MM"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJT0BPkBWdToYRrVyo38o98Fk",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2182,
+         "vicinity" : "10310 Technology Boulevard West, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8932128,
+               "lng" : -96.70105889999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8946662802915,
+                  "lng" : -96.69970431970849
+               },
+               "southwest" : {
+                  "lat" : 32.8919683197085,
+                  "lng" : -96.70240228029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "PT's Mens Club Dallas Strip",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104001583483729165707\"\u003ePT&#39;s Mens Club Dallas Strip\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAIS8CyCwEKsyvAdfwDjtvJw9BiMAjjtySomDp2JVSON8pY9Ne3sminqSMKeFgK25UbwX5Aa_MLMqk0EGZ6v91RrUL887lyO7bWOvmXWfDz0bIju32Xl0qZ_lCXzEW33gJEhBXLR-eF2_Z3-5gzdWYeodJGhTLCL1g_X1dCF7AsMo2xUWJVXYy6A",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJBbkuA4SgToYRh83es4CFdIs",
+         "plus_code" : {
+            "compound_code" : "V7VX+7H Dallas, TX, USA",
+            "global_code" : "8645V7VX+7H"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJBbkuA4SgToYRh83es4CFdIs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 344,
+         "vicinity" : "10601 Plano Road, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8704639,
+               "lng" : -96.91278149999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8718123302915,
+                  "lng" : -96.91158586970849
+               },
+               "southwest" : {
+                  "lat" : 32.86911436970851,
+                  "lng" : -96.9142838302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "The Lodge",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101639852789455218153\"\u003eThe Lodge\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA9rl31VOf6dNsp-xclrQ8jhX92n97aRF7vyt-qYUB8E11Vup_T9PO99r-SRsukQ7P0tt7wPNLUimnTAoDV3xZBqGhvQb71dZZ_d3doNgwIIaFGL0Rz5APYB1yQNUbHL3cEhAnIIBwLRGP9l9RASUIIYW6GhRLZwev82jyZ7UIH9fl1DxP9AvHNQ",
+               "width" : 5472
+            }
+         ],
+         "place_id" : "ChIJ71EO2UidToYRmFUMO3l7isI",
+         "plus_code" : {
+            "compound_code" : "V3CP+5V Dallas, TX, USA",
+            "global_code" : "8645V3CP+5V"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJ71EO2UidToYRmFUMO3l7isI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 143,
+         "vicinity" : "10530 Spangler Road, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7847245,
+               "lng" : -96.78447740000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.78602173029149,
+                  "lng" : -96.78319876970849
+               },
+               "southwest" : {
+                  "lat" : 32.7833237697085,
+                  "lng" : -96.7858967302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Trees",
+         "photos" : [
+            {
+               "height" : 562,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117784937600643533988\"\u003eTrees\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1isYZoy_h3JPYHAUtaV1lyWiPM9buzVa0pnfu60oq-D16kz_CezQ2qKYSWLXoEvoZ35W601CMdhnArjKoaFk4BV_iuu258xZ8n73RG2cI7A8tR2Hy624r68J9c5L9Ck8EhBnnLzu52HsJPvBKaS6xypKGhQuYxzAbVylSHk_TKpeQcGESBRgyw",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJu5glp92YToYR9lAI9YdR1CQ",
+         "plus_code" : {
+            "compound_code" : "Q6M8+V6 Dallas, TX, USA",
+            "global_code" : "8645Q6M8+V6"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJu5glp92YToYR9lAI9YdR1CQ",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1665,
+         "vicinity" : "2709 Elm Street, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8381441,
+               "lng" : -96.77502729999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8396755802915,
+                  "lng" : -96.77412171970849
+               },
+               "southwest" : {
+                  "lat" : 32.8369776197085,
+                  "lng" : -96.7768196802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+         "name" : "Hyena's Comedy Nightclub",
+         "photos" : [
+            {
+               "height" : 5120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117710766088272815323\"\u003eNicholas Gangloff\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJOBe7SNTIMnkRPfh5-DwqEomSTI2UMVmVOgcqpwYRL0CeqlYmta9sS1Y-NZyOBh0WyyK1cHhP60-pZYRbs6DsoO8zP-607tB95CQmzW078IgW7FtiXWInsdGLXWUlOl9EhCLgrMoEeNIEW1AAPiR5RmTGhT5Ih3ChEZAb4NtoIrojX11sfpCXA",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJD4jRFxKfToYRPRDlVyJJpUk",
+         "plus_code" : {
+            "compound_code" : "R6QF+7X Dallas, TX, USA",
+            "global_code" : "8645R6QF+7X"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJD4jRFxKfToYRPRDlVyJJpUk",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 185,
+         "vicinity" : "5321 East Mockingbird Lane, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9518169,
+               "lng" : -96.8219465
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.95317388029149,
+                  "lng" : -96.82074016970849
+               },
+               "southwest" : {
+                  "lat" : 32.9504759197085,
+                  "lng" : -96.82343813029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Gloria's Latin Cuisine",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 465,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109655488811742267266\"\u003eGloria&#39;s Latin Cuisine\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACALo4Zp3l9MGq5TMt6icajEGRLNJzn9SaFzjRF7BJ0zZ9ZjrfkuTNPH8REfdFuGn5tiYJCOm6FvfzKzF7Hg5-lXxphtQNic2GD9ikLM2PzZmtdPWjGWh-wE8TC7xR6NDEhA7_8KwpZfgcR85hvgANvPhGhQyngpMQfDNlz7nyf-t09vTxeCUmg",
+               "width" : 700
+            }
+         ],
+         "place_id" : "ChIJc5IeEDshTIYRKtfVlnuPDOs",
+         "plus_code" : {
+            "compound_code" : "X52H+P6 Dallas, TX, USA",
+            "global_code" : "8645X52H+P6"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJc5IeEDshTIYRKtfVlnuPDOs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "night_club",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2351,
+         "vicinity" : "5100 Belt Line Road Suite 864, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.81804369999999,
+               "lng" : -96.8026005
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.81936843029149,
+                  "lng" : -96.80120156970848
+               },
+               "southwest" : {
+                  "lat" : 32.8166704697085,
+                  "lng" : -96.8038995302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Eddie V's Prime Seafood",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118253974087725263732\"\u003eEddie V&#39;s Prime Seafood\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAKQei_EBRZ_SAgOs_TDfFt7cY1EaoTvoIMfvHrrW3xqp1VFuwEPOgjmAFIhsEOuPMwsuBlNa_f5fTFo_BEJIQbT7aOuETkvI8OGDkRdzyqIVIgcliN0RofJpHzHMFfEpzEhAyTKxLseRvV_EGoGxstw_UGhR1nTn9aNMWRlH3PVi22RE9JQJlQQ",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJgURGK8WeToYR-QpsrU1hq3o",
+         "plus_code" : {
+            "compound_code" : "R59W+6X Dallas, TX, USA",
+            "global_code" : "8645R59W+6X"
+         },
+         "price_level" : 4,
+         "rating" : 4.7,
+         "reference" : "ChIJgURGK8WeToYR-QpsrU1hq3o",
+         "scope" : "GOOGLE",
+         "types" : [
+            "night_club",
+            "meal_takeaway",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1140,
+         "vicinity" : "4023 Oak Lawn Avenue, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.793663,
+               "lng" : -96.82739319999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.79496893029149,
+                  "lng" : -96.82603936970848
+               },
+               "southwest" : {
+                  "lat" : 32.79227096970849,
+                  "lng" : -96.82873733029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Bowlounge",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117643546754054438585\"\u003eBowlounge\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAmnGm1LHkhl5mh9OHVfMZtPrAtL9QfSD6AlwSO0XJY2ffKB7Zvcm1Q2DSvDiEFp2oQN_veCwwgKnT2I1xAfnu7UixJo5a0TtV29DpGwt0EiucKc8rm8Wx_xtcLrDkmCLwEhA52BG9JHQi_YpVZUAwT1JBGhSW0dmYDk283Q_Y3D4IWA9HkbtxUw",
+               "width" : 1800
+            }
+         ],
+         "place_id" : "ChIJ72DQ81CZToYR9vLRCMH6y2o",
+         "plus_code" : {
+            "compound_code" : "Q5VF+F2 Dallas, TX, USA",
+            "global_code" : "8645Q5VF+F2"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ72DQ81CZToYR9vLRCMH6y2o",
+         "scope" : "GOOGLE",
+         "types" : [
+            "restaurant",
+            "bowling_alley",
+            "night_club",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1083,
+         "vicinity" : "167 Turtle Creek Boulevard #103, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.828668,
+               "lng" : -96.87169299999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8300902302915,
+                  "lng" : -96.87046701970849
+               },
+               "southwest" : {
+                  "lat" : 32.8273922697085,
+                  "lng" : -96.87316498029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "XTC Cabaret Dallas",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106072123954292265988\"\u003eXTC Cabaret Dallas\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3F6u5FtnrIr6IXwyLLvp-Dn_CJUtRlKzXCsktE_BMJfXfnH97oeBYW_cfi0WQ5Lyes8xpbFJSUYCMRzllxJfIBkt4IMdNrCnhsQpNv99DaCK6MOD3MXkW1mg9KBcBcCREhBW_790y6v_TIRi2_4RB0QaGhQPk4YGb-8ts7HrCI3o9tjITVQW_w",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJl4Cy-1ucToYRBBp7Ia-Cd2M",
+         "plus_code" : {
+            "compound_code" : "R4HH+F8 Dallas, TX, USA",
+            "global_code" : "8645R4HH+F8"
+         },
+         "rating" : 2.8,
+         "reference" : "ChIJl4Cy-1ucToYRBBp7Ia-Cd2M",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 280,
+         "vicinity" : "8550 North Stemmons Freeway, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8201184,
+               "lng" : -96.870487
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8214797302915,
+                  "lng" : -96.86909261970848
+               },
+               "southwest" : {
+                  "lat" : 32.8187817697085,
+                  "lng" : -96.8717905802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Silver City Cabaret",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 427,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106552504554981727167\"\u003eSilver City Cabaret\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAs7gk86UupnhBXqrdohhdc0bJRt-2vlzbapudQvoydqXWmacNnU5WaEFcDV3yR1M4_RgpSTdn7dUOn1xBLqwK2Wq6xzJCM5Irjev5kVX4MWu-Z-b6qEexmc3ufMAxhOXOEhDAz6K3mI-W4zXEzwLPJUX1GhQleb_Uv4FJGHOk89gb1YX1JJqGHA",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJB5GIH2ecToYRgKGJfZ6y-PQ",
+         "plus_code" : {
+            "compound_code" : "R4CH+2R Dallas, TX, USA",
+            "global_code" : "8645R4CH+2R"
+         },
+         "rating" : 4,
+         "reference" : "ChIJB5GIH2ecToYRgKGJfZ6y-PQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 150,
+         "vicinity" : "7501 North Stemmons Freeway, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8105556,
+               "lng" : -96.8108333
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8119348302915,
+                  "lng" : -96.80943286970849
+               },
+               "southwest" : {
+                  "lat" : 32.8092368697085,
+                  "lng" : -96.81213083029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+         "name" : "Station 4",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2634,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106503709459804739355\"\u003eDennis Jansen\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5NV3ShDp3HBIHyRFf2YunDO7knyxfvzBgDzJl53JaIghRhDB03oHlDhyWlHYxbXSEBoLbslnJZu1WkfxYnaeRqC5Uior0SXMKPhZxvW3MjRBqWkiGxjtS6l8p9AyViY7EhAHSV9ZDTGSDUeAy4sBzUiaGhQEVQmxUP__XrO9CNGTrLWCaG01UQ",
+               "width" : 4682
+            }
+         ],
+         "place_id" : "ChIJd6m0dcmeToYR3R7XzdFC07U",
+         "plus_code" : {
+            "compound_code" : "R56Q+6M Dallas, TX, USA",
+            "global_code" : "8645R56Q+6M"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJd6m0dcmeToYR3R7XzdFC07U",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 277,
+         "vicinity" : "3911 Cedar Springs Road, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9536642,
+               "lng" : -96.8267932
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.95496718029149,
+                  "lng" : -96.82527931970849
+               },
+               "southwest" : {
+                  "lat" : 32.9522692197085,
+                  "lng" : -96.82797728029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+         "name" : "Pete's Dueling Piano Bar",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2640,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101277412218122931944\"\u003eStephen Johnson\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwfxfMszsaZQ--KXwY_9vM3ziHaTo9zahOMN_yXhNyirsQCL01JGmFmIoSXtxegDmo-0xFbZ5Lp5y_EeV1PyXjchoQoQM7Vr7sBm5CqRXM62IqlqSpmjtxBqhZpCqtIFHEhDGzPg5OTk8bV0HfZVy1qCEGhT62N6diHUglMwrwUrGyZFpZwpb9Q",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJS3QP2jAhTIYRMK-G5-0l-TU",
+         "plus_code" : {
+            "compound_code" : "X53F+F7 Dallas, TX, USA",
+            "global_code" : "8645X53F+F7"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJS3QP2jAhTIYRMK-G5-0l-TU",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 880,
+         "vicinity" : "4980 Belt Line Road, Dallas"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7837639,
+               "lng" : -96.78710939999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7852119802915,
+                  "lng" : -96.7857914197085
+               },
+               "southwest" : {
+                  "lat" : 32.7825140197085,
+                  "lng" : -96.78848938029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "The Prophet Bar",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 333,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112903140348217010967\"\u003eThe Prophet Bar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALiEnXrsOQtom2dZ28tPLLESpDx5jRZnqpt0hg8P-sApqMs_I_EjAV1FnoyscGYbZty1DBTy_4-jAOTDRxJfRTEY9ZSrN8BOIDlBFZm18qhJ_MZqPZJIz0qQ1jQ2tnMvyEhA_EMOyc2suhmto663nrhVoGhS6gY5o3kxHzEjOGvE5IPPYaEC-Cg",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJx0u5C96YToYRD1EuCJOZkOg",
+         "plus_code" : {
+            "compound_code" : "Q6M7+G5 Dallas, TX, USA",
+            "global_code" : "8645Q6M7+G5"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJx0u5C96YToYRD1EuCJOZkOg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 291,
+         "vicinity" : "2548 Elm Street, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.896795,
+               "lng" : -96.902523
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.89814293029149,
+                  "lng" : -96.9010750197085
+               },
+               "southwest" : {
+                  "lat" : 32.89544496970849,
+                  "lng" : -96.90377298029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+         "name" : "Encore Family Karaoke",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117627954130766996715\"\u003eJin Shin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_NG_1yTBLjRdCBFmM_NBKYE8c7gApqKrMGc0ASbZYpJlXt5OcL5og6NqUskMH-8cVB9yWf64ZvnagJpLIM9Rwpop9QTY6Q4DdvSHnV2Wl0CEKZ38pryN3a-UiObGh-tEEhB8LnEWXbyIig7cf0oroXTiGhSPByZe3fFDaVSPlsnlwP1eofWHwQ",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJRXgSq_MnTIYRe-4thyI3y0Y",
+         "plus_code" : {
+            "compound_code" : "V3WW+PX Dallas, TX, USA",
+            "global_code" : "8645V3WW+PX"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJRXgSq_MnTIYRe-4thyI3y0Y",
+         "scope" : "GOOGLE",
+         "types" : [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 782,
+         "vicinity" : "11433 Goodnight Lane, Dallas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8571599,
+               "lng" : -96.8721152
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8584617802915,
+                  "lng" : -96.87083841970849
+               },
+               "southwest" : {
+                  "lat" : 32.8557638197085,
+                  "lng" : -96.8735363802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Stratos",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104983016655894777973\"\u003eAlberto Gutierrez\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQiKvvxK9d_aY8FIa9-yxRWa-XU69Qvhxjddxq6p1a6xXj0tUvN2qNWO_3dQgwf7zUtY3qnhhoax8GY1vOig1iMW245DUjpfglDrtjQFQB30xKioEZ8fB5SDbtZ1pDQ_kEhC-eU91Ic_aforJFxiSKVgCGhTIQl5A6SVEb055hYcVOzMWzicoZQ",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJnXQe8KWdToYRxDtAT0NFVJY",
+         "plus_code" : {
+            "compound_code" : "V44H+V5 Dallas, TX, USA",
+            "global_code" : "8645V44H+V5"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJnXQe8KWdToYRxDtAT0NFVJY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1371,
+         "vicinity" : "2907 West Northwest Highway, Dallas"
+      }
+   ],
+   "status" : "OK"
+}
